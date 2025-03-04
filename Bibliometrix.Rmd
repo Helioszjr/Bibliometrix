@@ -1,0 +1,46 @@
+---
+title: "Bibliometria na prática com R e Bibliometrix"
+author: "helio Junior"
+date: "2025-03-04"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+install.packages('bibliometrix')
+library(bibliometrix)
+```
+
+# Lembrar de trocar os caminhos dos arquivos pelos que você usa!
+
+```{r}
+S <- convert2df("C:/Users/dyell/OneDrive/Documentos/Bibliometria/scopus.csv", dbsource = "scopus", format = "csv")
+W <- convert2df("C:/Users/dyell/OneDrive/Documentos/Bibliometria/savedrecs.txt", dbsource = "wos", format = "plaintext")
+U <- mergeDbSources(S, W, remove.duplicated = TRUE)
+```
+
+```{r}
+write.table(U, "C:/Users/dyell/OneDrive/Documentos/Bibliometria/dadosbiblio.csv", sep = ";", row.names = FALSE)
+```
+
+```{r}
+P <- U[,c("DI", "PY", "AU", "TI", "SO", "DT", "DE", "TC")]
+write.table(P, "C:/Users/dyell/OneDrive/Documentos/Bibliometria/dadosbibliosel.csv", sep = ";", row.names = FALSE)
+```
+
+```{r}
+Res <- biblioAnalysis(U)
+DS <- summary(object = Res, k = 20)
+
+plot(Res, k=20)
+```
+
+# baixar o aplicativo Shiny 
+
+```{r}
+biblioshiny()
+```
+

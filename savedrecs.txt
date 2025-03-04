@@ -1,0 +1,1653 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT C
+AU Gavelan, JPM
+   Mezones, PPP
+   Rodriguez, C
+AF Marroquin Gavelan, Juan Patricio
+   Peralta Mezones, Perla Patricia
+   Rodriguez, Ciro
+GP IEEE
+TI NEKO: Proposal of the first super-agile methodology to improve work
+   efficiency
+SO 5TH INTERNATIONAL CONFERENCE ON COMPUTING AND INFORMATICS (ICCI 2022)
+LA English
+DT Proceedings Paper
+CT 5th International Conference on Computing and Informatics (IEEE ICCI)
+CY MAR 09-10, 2022
+CL New Cairo, EGYPT
+SP Future Univ Egypt, IEEE, IEEE Comp Soc, Future Univ Egypt, Fac Comp & Informat Technol
+DE agile project management; methodology; mental health; work teams;
+   effectiveness
+ID KANBAN; SCRUM
+AB Agile methodologies are the preferred strategy for work teams around the world thanks to their rapid response to changes and adaptability. However, this prioritization of efficiency and speed has neglected the well-being of the most important element of any project: the teams. This article presents NEKO as a super-agile methodology focused on people and that aims to prioritize the mental health of workers without neglecting effectiveness, relying on new technologies such as Artificial Intelligence to enhance its processes. During the research stage, using the methodology proposed by Kitchenham, fifteen articles were analyzed and allowed us to rescue the strengths and identify the problems presented by the agile methodologies most used today. Then, the proposal was developed dividing it into three phases; each including events, artifacts, and tools to achieve your goal. Later, during the discussion, the proposal was contrasted with the methodologies initially analyzed and it was concluded that taking the points in favor of these and adding state-of-the-art technology focused on the well-being of the teams is synonymous with efficiency, meaning a possible change in the paradigm of the current world of work.
+C1 [Marroquin Gavelan, Juan Patricio; Peralta Mezones, Perla Patricia; Rodriguez, Ciro] San Marcos Major Natl Univ, Software Engn Dept, Lima, Peru.
+C3 Universidad Nacional Mayor de San Marcos
+RP Gavelan, JPM (autor correspondente), San Marcos Major Natl Univ, Software Engn Dept, Lima, Peru.
+RI Rodriguez, Ciro Rodriguez/AAR-5866-2020
+OI Rodriguez, Ciro Rodriguez/0000-0003-2112-1349
+CR Ahmad MO, 2018, J SYST SOFTWARE, V137, P96, DOI 10.1016/j.jss.2017.11.045
+   Bissi W, 2016, INFORM SOFTWARE TECH, V74, P45, DOI 10.1016/j.infsof.2016.02.004
+   Cano EL, 2021, J ENG TECHNOL MANAGE, V61, DOI 10.1016/j.jengtecman.2021.101634
+   Edison H, 2018, J SYST SOFTWARE, V135, P69, DOI 10.1016/j.jss.2017.09.034
+   Ghezzi A, 2020, J BUS RES, V110, P519, DOI 10.1016/j.jbusres.2018.06.013
+   Intergovernmental Panel Climate Change Working Grp III, 2014, CLIMATE CHANGE 2014: MITIGATION OF CLIMATE CHANGE, P1
+   Kitchenham B., 2007, GUIDELINES PERFORMIN
+   Lei H, 2017, ROBOT CIM-INT MANUF, V43, P59, DOI 10.1016/j.rcim.2015.12.001
+   Mansoori Y, 2019, TECHNOVATION, V84-85, P37, DOI 10.1016/j.technovation.2019.03.001
+   Mnookin S., 2016, ECOSYST HUM WELL BEI, P27, DOI [10.1007/s13398-014-0173-7.2, DOI 10.1007/S13398-014-0173-7.2]
+   Moe NB, 2010, INFORM SOFTWARE TECH, V52, P480, DOI 10.1016/j.infsof.2009.11.004
+   Morandini M, 2021, COMPUT SCI REV, V39, DOI 10.1016/j.cosrev.2020.100314
+   Powell DJ, 2018, IFAC PAPERSONLINE, V51, P140, DOI 10.1016/j.ifacol.2018.08.248
+   Sadath Le, 2018, 2018 ADV SCI ENG TEC, P1, DOI DOI 10.1109/ICASET.2018.8376925
+   Sangar R., 2019, MENTAL HLTH WORKPLAC
+   Shafiee S, 2020, J SYST SOFTWARE, V170, DOI 10.1016/j.jss.2020.110732
+   Sohaib O, 2019, J AMB INTEL HUM COMP, V10, P2497, DOI 10.1007/s12652-018-0932-y
+   Streule T, 2016, PROCEDIA ENGINEER, V164, P269, DOI 10.1016/j.proeng.2016.11.619
+   Sweeney E, 2021, PREV MED, V150, DOI 10.1016/j.ypmed.2021.106697
+   Venkatesh D., 2020, MATER TODAY-PROC, DOI [10.1016/j.matpr.2020.11.308, DOI 10.1016/J.MATPR.2020.11.308]
+   Woit D., 2014, KMIS 2014. 6th International Conference on Knowledge Management and Information Sharing. Proceedings, P375
+NR 21
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-6654-9973-6; 978-1-6654-9972-9
+PY 2022
+BP 15
+EP 21
+DI 10.1109/ICCI54321.2022.9756085
+PG 7
+WC Computer Science, Artificial Intelligence; Computer Science, Information
+   Systems; Computer Science, Theory & Methods; Engineering, Biomedical
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science; Engineering
+GA BT2OE
+UT WOS:000812327000003
+DA 2022-12-08
+ER
+
+PT C
+AU Singla, K
+   Bose, J
+   Naik, C
+AF Singla, Kushal
+   Bose, Joy
+   Naik, Chetan
+GP IEEE
+TI Analysis of Software Engineering for Agile Machine Learning Projects
+SO IEEE INDICON: 15TH IEEE INDIA COUNCIL INTERNATIONAL CONFERENCE
+SE Annual IEEE India Conference
+LA English
+DT Proceedings Paper
+CT 15th IEEE-India-Council International Conference (IEEE INDICON)
+CY DEC 16-18, 2018
+CL Amrita Vishwa Vidyapeetham, Coimbatore, INDIA
+SP IEEE India Council, IEEE Madras Sect, Indian Inst Technol Madras, Inst Elect & Telecommunicat Engineers, Comp Soc India, H&R BLOCK, Soliton
+HO Amrita Vishwa Vidyapeetham
+DE scrum; machine learning project; software engineering; agile methodology
+AB The number of machine learning, artificial intelligence or data science related software engineering projects using Agile methodology is increasing. However, there are very few studies on how such projects work in practice. In this paper, we analyze project issues tracking data taken from Scrum (a popular tool for Agile) for several machine learning projects. We compare this data with corresponding data from non-machine learning projects, in an attempt to analyze how machine learning projects are executed differently from normal software engineering projects. On analysis, we find that machine learning project issues use different kinds of words to describe issues, have higher number of exploratory or research oriented tasks as compared to implementation tasks, and have a higher number of issues in the product backlog after each sprint, denoting that it is more difficult to estimate the duration of machine learning project related tasks in advance. After analyzing this data, we propose a few ways in which Agile machine learning projects can be better logged and executed, given their differences with normal software engineering projects.
+C1 [Singla, Kushal; Bose, Joy; Naik, Chetan] Samsung R&D Inst, Bangalore, Karnataka, India.
+RP Singla, K (autor correspondente), Samsung R&D Inst, Bangalore, Karnataka, India.
+EM kushal.s@samsung.com
+RI Bose, Joy/G-5012-2012
+OI Bose, Joy/0000-0002-6717-2187
+CR Barba P., 2018, CASE AGILE MACHINE L
+   Cardoza C., 2015, SD TIMES
+   Columbus L., 2018, FORBES
+   Dyba T, 2008, INFORM SOFTWARE TECH, V50, P833, DOI 10.1016/j.infsof.2008.01.006
+   Hinds R., 2017, DZONE            JUN
+   Malhotra R, 2012, J INF PROCESS SYST, V8, P241, DOI 10.3745/JIPS.2012.8.2.241
+   Microsoft Azure documentation, 2017, AGILE DEV DATA SCI P
+   Schleier-Smith J, 2015, KDD'15: PROCEEDINGS OF THE 21ST ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, P2059, DOI 10.1145/2783258.2788628
+   Villamin G., 2018, B2C              MAY
+   Wen JF, 2012, INFORM SOFTWARE TECH, V54, P41, DOI 10.1016/j.infsof.2011.09.002
+   YellowRoad, 2017, AG M MACH LEARN
+NR 11
+TC 0
+Z9 0
+U1 1
+U2 1
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN 2325-940X
+BN 978-1-5386-8235-7
+J9 ANNU IEEE IND CONF
+PY 2018
+AR 1570485817
+PG 5
+WC Automation & Control Systems; Computer Science, Software Engineering;
+   Computer Science, Theory & Methods; Engineering, Electrical &
+   Electronic; Instruments & Instrumentation; Telecommunications
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Automation & Control Systems; Computer Science; Engineering; Instruments
+   & Instrumentation; Telecommunications
+GA BR0BD
+UT WOS:000627617700160
+DA 2022-12-08
+ER
+
+PT C
+AU Sarikaya, E
+   Bagriyanik, S
+   Gokalp, M
+AF Sarikaya, Erkan
+   Bagriyanik, Selami
+   Gokalp, Mesut
+BE Akgun, BT
+   Ayav, T
+   Bilgen, S
+   Kardas, G
+TI Teaching Agile Software Development Using Agile Methods: A Case Study
+SO 2020 TURKISH NATIONAL SOFTWARE ENGINEERING SYMPOSIUM (UYMS)
+LA Turkish
+DT Proceedings Paper
+CT 14th Turkish National Software Engineering Symposium (UYMS)
+CY OCT 07-09, 2020
+CL ELECTR NETWORK
+SP Istanbul Okan Univ, IEEE Turkey Sect, Yazilim Sanayicileri Dernegi, Logo, Dalya
+DE agile; SCRUM; agility in education; self-learning; performance
+AB Today, the dramatic impact of digital transformation on business, education and private life are becoming more apparent each day. Considering the effect of major environmental events such as the covid-19 pandemic in 2020, technology has become even more influential. In this context, the very rapid developments in technologies such as cloud computing, internet of things, machine learning, artificial intelligence and 5G and consequently the need for continuous upskilling of expert human resources have made the adaptation of traditional learning and teaching methods to this new human condition a vital issue. While the aforementioned phenomenon is being experienced, a talent gap is observed between the competencies of the graduates of Computer Science Engineering, Software Engineering, Industrial Engineering and other related departments and industry expectations as a result of the traditional education approaches of the universities. The shortening of the lifespan of the produced vocational knowledge day by day continues to increase this gap. For this reason, it has become more important than ever that higher education institutions have an approach that is more suitable for this dynamic environment. In this study, it has been examined whether the agile methods, which have become widespread within software industry in the last 15 years, have similar potential when used as a training method. During the study, 49 students from the engineering faculty of a Turkish University participated in the "Agile Software and Product Development" course. The curriculum design, learning experiences, student performance considerations and the other results have been shared. In this course, 3 Sprints are designed with 8 Agile Project Teams that are self- organized with the Scrum framework. Continuous team learning opportunities were evaluated and the difficulties encountered in applying "agility" approach to students while developing innovative ideas and the effect of agile method on the performance of learning were examined. The study is considered to provide useful information for universities, faculty members, agile coaches, students, and firms and professionals in the Information and Communication Technologies industry.
+C1 [Sarikaya, Erkan; Gokalp, Mesut] Turkcell Teknol, Cevik Ofis Bolumu, Istanbul, Turkey.
+   [Bagriyanik, Selami] Turkcell Teknol, Dijital Serv & Cozumler Teknol Bolumu, Istanbul, Turkey.
+RP Sarikaya, E (autor correspondente), Turkcell Teknol, Cevik Ofis Bolumu, Istanbul, Turkey.
+EM erkan.sarikaya@gmail.com; selami.bagriyanik@turkcell.com.tr;
+   mesut.gokalp@turkcell.com.tr
+RI Bagriyanik, Selami/V-9597-2019
+OI Bagriyanik, Selami/0000-0002-5561-4283
+CR Alfonso MI, 2005, CONF SOFTW ENG EDUC, P9, DOI 10.1109/CSEET.2005.5
+   [Anonymous], 2019, COLLABNET VERSIONONE
+   Beck K., 2000, PLANNING EXTREME PRO
+   Beck K., 2001, MANIFESTO AGILE SOFT
+   Braun V, 2021, QUAL RES PSYCHOL, V18, P328, DOI 10.1080/14780887.2020.1769238
+   Delhij A., 2015, EDUSCRUM GUIDE NO 12, P21
+   Ertaban C., 2017, CEUR WORKSHOP PROC
+   Heinonen K., 2013, 14 ANN ACM SIGITE C, P97
+   Meerbaum-Salant O., 2010, ACM T COMPUT EDUC, V9
+   Melnik G, 2003, LECT NOTES COMPUT SC, V2753, P172
+   Noguera I, 2018, COMPUT EDUC, V116, P110, DOI 10.1016/j.compedu.2017.09.008
+   Ovais AM, 2014, IEEE GLOB ENG EDUC C, P422, DOI 10.1109/EDUCON.2014.6826129
+   Paasivaara M, 2014, 36TH INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING (ICSE COMPANION 2014), P382, DOI 10.1145/2591062.2591169
+   Rico David F., USE AGILE METHODS SO USE AGILE METHODS SO
+   Scharff C, 2010, 2010 ICSE WORKSHOP ON COOPERATIVE AND HUMAN ASPECTS OF SOFTWARE ENGINEERING (CHASE 2010), P25
+   Schwaber K., SCRUM GUIDES
+   TAKEUCHI H, 1986, HARVARD BUS REV, V64, P137
+   Wujec T., MARSHMALLOW CHALLENG
+NR 18
+TC 0
+Z9 0
+U1 2
+U2 7
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-7281-8541-5
+PY 2020
+BP 7
+EP 12
+PG 6
+WC Computer Science, Software Engineering
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science
+GA BS0AP
+UT WOS:000680657300002
+DA 2022-12-08
+ER
+
+PT C
+AU Meyer, MLB
+AF Meyer, Maria Laura Brzezinski
+GP IEEE COMP SOC
+TI TSAI - Test Selection using Artificial Intelligence for the Support of
+   Continuous Integration
+SO 2021 IEEE INTERNATIONAL SYMPOSIUM ON SOFTWARE RELIABILITY ENGINEERING
+   WORKSHOPS (ISSREW 2021)
+SE IEEE International Symposium on Software Reliability Engineering
+   Workshops
+LA English
+DT Proceedings Paper
+CT 32nd IEEE International Symposium on Software Reliability Engineering
+   (ISSRE)
+CY OCT 25-28, 2021
+CL Wuhan, PEOPLES R CHINA
+SP IEEE, IEEE Comp Soc, IEEE Reliabil Soc, Wuhan Univ Technol
+DE Continuous Integration; testing; regression tests; artificial
+   intelligence; industrial case study
+ID PRIORITIZATION
+AB The agile methodology has been increasingly deployed in the industry world, breaking the process into cycles of planning, executing, and evaluating. In the software development domain, an agile method named continuous integration is widely used to automatically integrate code changes from different developers into the same software. Then, each new build can be tested to make sure that the modifications did not interfere with the rest of the already verified code. Despite being very important, regression tests are usually the costliest part of a project. It is laborious to retest all tests of each new software version due to the time it takes to perform and often, before all tests are finished, a new software version is ready to be tested. To improve regression tests results, a selection can be done. By selecting the right tests at the right moment, the use of all test catalogs can be avoided to find faults in the software tested. The aim of this work is to develop a method to select tests to be executed for each version using artificial intelligence algorithms. Learning algorithms can find patterns and similarities between test cases to help knowing which one has a higher probability to expose a fault.
+C1 [Meyer, Maria Laura Brzezinski] Univ Toulouse, INSA, LAAS CNRS, Toulouse, France.
+   [Meyer, Maria Laura Brzezinski] Renault Software Factory, Toulouse, France.
+C3 Centre National de la Recherche Scientifique (CNRS); Universite Federale
+   Toulouse Midi-Pyrenees (ComUE); Universite de Toulouse; Institut
+   National des Sciences Appliquees de Toulouse
+RP Meyer, MLB (autor correspondente), Univ Toulouse, INSA, LAAS CNRS, Toulouse, France.; Meyer, MLB (autor correspondente), Renault Software Factory, Toulouse, France.
+EM mlbrzezins@laas.fr
+FU Renault Group
+FX This project has received funding from Renault Group. The author would
+   like to thank the director Helene Waeselynck from LAAS and the
+   industrial advisor Fernand Cuesta for their guidance during the first
+   months of this PhD.
+CR Anderson J., 2014, P 11 WORK C MIN SOFT, P142, DOI 10.1145/2597073.2597084
+   Arcuri A, 2014, SOFTW TEST VERIF REL, V24, P219, DOI 10.1002/stvr.1486
+   Bhatnagar K., 2020, REGRESSION TEST CASE
+   Bin Noor T, 2015, 2015 IEEE 26TH INTERNATIONAL SYMPOSIUM ON SOFTWARE RELIABILITY ENGINEERING (ISSRE), P58, DOI 10.1109/ISSRE.2015.7381799
+   BOOCH G, 2004, OBJECT ORIENTED ANAL
+   Busjaeger B, 2016, FSE'16: PROCEEDINGS OF THE 2016 24TH ACM SIGSOFT INTERNATIONAL SYMPOSIUM ON FOUNDATIONS OF SOFTWARE ENGINEERING, P975, DOI 10.1145/2950290.2983954
+   Fang CR, 2014, SOFTWARE QUAL J, V22, P335, DOI 10.1007/s11219-013-9224-0
+   Fazlalizadeh Y, 2009, LECT NOTES COMPUT SC, V5668, P43
+   Fowler M., 2006, Continuous integration
+   Gligoric Milos, 2015, ISSTA 2015, P211
+   Haraty RA, 2016, INT J SOFTW ENG KNOW, V26, P733, DOI 10.1142/S0218194016500248
+   Heimdahl MPE, 2004, 19TH INTERNATIONAL CONFERENCE ON AUTOMATED SOFTWARE ENGINEERING, PROCEEDINGS, P176, DOI 10.1109/ASE.2004.1342735
+   Lachmann R., 2018, 12 4 MACHINE LEARNIN, P300
+   Legunsen O, 2017, IEEE INT CONF AUTOM, P949, DOI 10.1109/ASE.2017.8115710
+   Lou YL, 2019, ADV COMPUT, V113, P1, DOI 10.1016/bs.adcom.2018.10.001
+   Marijan D, 2019, SOFTWARE PRACT EXPER, V49, P192, DOI 10.1002/spe.2661
+   Rothermel G, 2001, IEEE T SOFTWARE ENG, V27, P929, DOI 10.1109/32.962562
+   Rothermel G, 2002, SOFTW TEST VERIF REL, V12, P219, DOI 10.1002/stvr.256
+   Saha RK, 2015, 2015 IEEE/ACM 37TH IEEE INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING, VOL 1, P268, DOI 10.1109/ICSE.2015.47
+   Singh R., 2013, IJERT, V2, P1048
+   Songyu Chen, 2011, Proceedings 2011 IEEE Fourth International Conference on Software Testing, Verification and Validation (ICST 2011), P1, DOI 10.1109/ICST.2011.38
+   Spieker H, 2017, PROCEEDINGS OF THE 26TH ACM SIGSOFT INTERNATIONAL SYMPOSIUM ON SOFTWARE TESTING AND ANALYSIS (ISSTA'17), P12, DOI 10.1145/3092703.3092709
+   Yoo S, 2012, SOFTW TEST VERIF REL, V22, P67, DOI [10.1002/stv.430, 10.1002/stvr.430]
+NR 23
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1264 USA
+SN 2375-821X
+BN 978-1-6654-2603-9
+J9 IEEE INT SYMP SOFTW
+PY 2021
+BP 306
+EP 309
+DI 10.1109/ISSREW53611.2021.00092
+PG 4
+WC Computer Science, Software Engineering; Engineering, Electrical &
+   Electronic
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science; Engineering
+GA BT1SO
+UT WOS:000802172100055
+OA Green Submitted
+DA 2022-12-08
+ER
+
+PT C
+AU Nicola, S
+   Mendonca, J
+   Pinto, C
+   Pereira, A
+AF Nicola, Susana
+   Mendonca, Jorge
+   Pinto, Carla
+   Pereira, Alberto
+BE Chova, LG
+   Martinez, AL
+   Torres, IC
+TI EDUCATION BY CHALLENGE: INNOVATION DRIVEN SPIRIT
+SO 13TH INTERNATIONAL TECHNOLOGY, EDUCATION AND DEVELOPMENT CONFERENCE
+   (INTED2019)
+SE INTED Proceedings
+LA English
+DT Proceedings Paper
+CT 13th International Technology, Education and Development Conference
+   (INTED)
+CY MAR 11-13, 2019
+CL Valencia, SPAIN
+DE Challenge Based Learning; Agile methodology; Innovation; Engineering
+AB "It doesn't make sense to hire smart people and tell them what to do; we hire smart people, so they can tell us what to do." Steve Jobs on Forbes. More than ever, society faces a panoply of complex challenges, from development of artificial intelligence, smart cities, health and well-being, and new energies that will improve the quality of life for the majority of the world population. These are complex issues demanding higher skills, "big ideas", awe-inspiring solutions, from today's top leaders.
+   At higher education there is a pool of young, creative, curious living human beings, the students, eager to make an impact in the world, to solve the problems of today's and tomorrow's society. However, to bridge the gap between knowledge and societal demands, these students are asked to apply interdisciplinary and multidisciplinary knowledge, beyond the one learned at one single subject.
+   In order to better prepare the Engineering Bachelor students for the emerging Innovation Driven spirit, this study presents an application of a novel teaching scheme at the School of Engineering of the Polytechnic of Porto, in the academic year of 2018/2019, in a laboratory class, LSIS2, from the Systems' Engineering Bachelor Degree. We apply a combination of the Challenge Based Learning (CBL) and of the Scrum framework from the Agile methodology, to boost the students' participation in this innovation process. In this empirical study, students will be challenged to propose a new idea for a new product or service, develop a new conceptual model, and evaluate the model using a series of surveys. Quantitative and qualitative analysis of the methodologies implemented will be shown, as well as the benefits and difficulties felt by the students in their implementation.
+C1 [Nicola, Susana; Mendonca, Jorge; Pinto, Carla; Pereira, Alberto] Polytech Porto, Sch Engn, Porto, Portugal.
+   [Pinto, Carla] Univ Porto, Ctr Math, Porto, Portugal.
+   [Nicola, Susana; Mendonca, Jorge] Interdisciplinary Res Ctr ISRC, Porto, Portugal.
+C3 Polytechnic Institute of Porto; Universidade do Porto
+RP Nicola, S (autor correspondente), Polytech Porto, Sch Engn, Porto, Portugal.; Nicola, S (autor correspondente), Interdisciplinary Res Ctr ISRC, Porto, Portugal.
+RI Pinto, Carla M A/J-5221-2013
+OI Pinto, Carla M A/0000-0002-0729-1133; Nicola, Susana/0000-0003-1494-7521
+FU CMUP - FCT (Portugal) [UID/MAT/00144/2013]; MEC; European structural
+   funds (FEDER), under the partnership agreement PT2020
+FX CMUP's author was partially supported by CMUP (UID/MAT/00144/2013),
+   which is funded by FCT (Portugal) with national (MEC) and European
+   structural funds (FEDER), under the partnership agreement PT2020.
+CR A. Inc, 2012, TECHNICAL REPORT
+   Blank S., 2012, STARTUP OWNERS MANUA
+   Clegg JR, 2019, EUR J ENG EDUC, V44, P398, DOI 10.1080/03043797.2018.1524453
+   Kamp Aldert, 2014, BULLETIN
+   Mendonca J., 2018, INTED2018 12 INT TEC, DOI [10.21125/inted.2018.0332, DOI 10.21125/INTED.2018.0332]
+   Mendonca J, 2018, EDULEARN PROC, P4548
+   Nichols M., 2016, CHALLENGE BASED LEAR
+   Nicola S., 2018, CHANGING HIGHER ED O, P1
+   Osterwalder Alexander, 2010, BUSINESS MODEL CANVA
+   Peua-LuEpez Ismael., 2016, INNOVATING ED ED INN
+   Pinto C.M.A., 2018, EDULEARN2018 10 INT, DOI [10.21125/edulearn.2018.2561, DOI 10.21125/EDULEARN.2018.2561]
+   Schwaber K., 1997, BUSINESS OBJECT DESI, P117, DOI DOI 10.1007/978-1-4471-0947-1_11
+NR 12
+TC 0
+Z9 0
+U1 0
+U2 4
+PU IATED-INT ASSOC TECHNOLOGY EDUCATION & DEVELOPMENT
+PI VALENICA
+PA LAURI VOLPI 6, VALENICA, BURJASSOT 46100, SPAIN
+SN 2340-1079
+BN 978-84-09-08619-1
+J9 INTED PROC
+PY 2019
+BP 5182
+EP 5190
+DI 10.21125/inted.2019.1292
+PG 9
+WC Education & Educational Research; Psychology, Educational
+WE Conference Proceedings Citation Index- Social Science &amp; Humanities (CPCI-SSH)
+SC Education & Educational Research; Psychology
+GA BP1XC
+UT WOS:000541042200030
+DA 2022-12-08
+ER
+
+PT C
+AU Jabeen, J
+   Motla, YH
+   Abbasi, MA
+   Batool, DEB
+   Butt, R
+   Nazir, S
+   Anwer, SA
+AF Jabeen, Javeria
+   Motla, Yasir Hafeez
+   Abbasi, Mateen Ahmed
+   Batool, Dur-e-Benish
+   Butt, Rahil
+   Nazir, Sana
+   Anwer, Syeda Ayesha
+GP IEEE
+TI Incorporating Artificial Intelligence Technique into DSDM
+SO 2014 ASIA-PACIFIC WORLD CONGRESS ON COMPUTER SCIENCE AND ENGINEERING
+   (APWC ON CSE)
+LA English
+DT Proceedings Paper
+CT Asia Pacific World Congress Computer Science Engineering
+CY NOV 04-05, 2014
+CL Nadi, FIJI
+DE Dynamic system development method; Security; Agile methodology; Case
+   based reasoning
+AB Dynamic System Development Method has been criticized because of absence security practices in its phases. The key objective is proposed the secure software development framework. CBR-DSDM model had proposed in this paper to cover the security in an entire development life cycle of DSDM phases from the beginning to final phase. This paper proposes a way to map security activities into the dynamic system development method. A Case based reasoning technique is used for maintaining security requirement repository. The main purpose of this research is to fill the gap by integrating security into DSDM phases and maintaining its agility. Our model is evaluated using publish case study. For the Assessment of CBR-DSDM used the control experiment and expert review evaluation methods.
+C1 [Jabeen, Javeria; Motla, Yasir Hafeez; Abbasi, Mateen Ahmed; Batool, Dur-e-Benish; Butt, Rahil; Nazir, Sana; Anwer, Syeda Ayesha] PMAS Arid Agr Univ, Univ Inst Informat Technol, Rawalpindi, Pakistan.
+C3 Arid Agriculture University
+RP Jabeen, J (autor correspondente), PMAS Arid Agr Univ, Univ Inst Informat Technol, Rawalpindi, Pakistan.
+EM javeria.jabeen@yahoo.com; yasir@uaar.edu.pk; mateenabbasi@msn.com;
+   benimalik@rocketmail.com; rahil4u@gmail.com; sana_taurus5@yahoo.com
+RI Hafeez, Yaser/L-1348-2019; Abbasi, Mateen Ahmed/D-7535-2014
+OI Abbasi, Mateen Ahmed/0000-0001-8988-8816
+CR Aitken A, 2013, P ANN HICSS, P4751, DOI 10.1109/HICSS.2013.31
+   COYLE S, 2009, STUDY RISK MANAGEMEN, P142
+   Firdaus A, 2014, PROCD SOC BEHV, V129, P546, DOI 10.1016/j.sbspro.2014.03.712
+   Gall D., 2005, DYNAMIC SYSTEMS DEV
+   Jain P., 2011, INT J COMPUT SCI ENG, V3, P3774
+   Jani H. M., 2010, Proceedings of the 2nd International Conference on Software Engineering and Data Mining (SEDM 2010), P140
+   Mantaras R. L. D., 2005, RETRIEVAL REUSE REVI
+   Mead Nancy R., 2008, 2008 IEEE 32nd International Computer Software and Applications Conference (COMPSAC), P949, DOI 10.1109/COMPSAC.2008.85
+   Minhas N. M., 2011, 2011 5th Malaysian Conference in Software Engineering (MySEC), P31, DOI 10.1109/MySEC.2011.6140639
+   Mukhtar Mehwish, 2013, 2013 IEEE 4th International Conference on Software Engineering and Service Science (ICSESS), P820, DOI 10.1109/ICSESS.2013.6615431
+   Naz H, 2013, INT CONF COMP SCI, P121, DOI 10.1109/CSIT.2013.6588769
+   Sani A., 2013, INT J COMPUTER APPL, P37
+   Sommerville I., 2010, SOFTWARE ENG, V9th
+   Strickland J., 2011, SIMULATION CONCEPTUA, P145
+   Tudor D., 2006, PRINCE2 DSDM WHY SHO
+   Voigt B.J., 2004, DYNAMIC SYSTEM DEV M
+   Wallin C., 2002, SOFTWARE DEV LIFECYC
+NR 17
+TC 0
+Z9 0
+U1 0
+U2 1
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-4799-1955-0
+PY 2014
+PG 8
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science
+GA BF2FQ
+UT WOS:000380463500005
+DA 2022-12-08
+ER
+
+PT C
+AU Penafiel, EFM
+   Barahona, BV
+   Camejo, IM
+AF Mejia Penafiel, Edwin Fernando
+   Vaca Barahona, Byron
+   Menes Camejo, Ivan
+BE Arcos, G
+   Hidalgo, B
+   Valverde, V
+   Onate, A
+   Aguirre, L
+   Rosero, R
+   Pastor, D
+   Hidalgo, G
+   Villa, E
+   Luna, W
+   Moreno, P
+   Lozada, R
+   Gomez, OS
+TI Methodology of Building An Expert System Using Induction Rules with
+   Structured Programming
+SO IBERO-AMERICAN SYMPOSIUM ON COMPUTER PROGRAMMING JOINTLY HELD WITH THE
+   INTERNATIONAL CONGRESS ON TECHNOLOGY EDUCATION
+LA Spanish
+DT Proceedings Paper
+CT Ibero-American Symposium on Computer Programming (SIIPRIN) Jointly Held
+   with the International Congress on Technology Education and Knowledge
+   Management (CITEGC)
+CY NOV 29-30, 2018
+CL Riobamba, ECUADOR
+SP Grupo Investigac Ingn Software, Grupo Investigac Tecnologias Informac Gest Conocimiento, Escuela Super Politecnica Chimborazo
+DE algorithms of artificial intelligence; knowledge base; artificial
+   intelligence; inference machine; production rules; real-time systems;
+   expert systems
+AB This article aims to give an idea of how to develop expert systems to help society in all senses. The rules of induction used with MYCIN can help us in medicine, agricultura, and the financial system, implementing an inference engine with different rules so that in case there are no people, the expert system can diagnose in a clear and precise way, based on a knowledge base with some consequents and their corresponding antecedents, these artificial intelligence algorithms used will allow us to determine what type of consequence or conclusion it gives us, of the chaining of several antecedents with structured programming to give us its corresponding answer, then this research is aimed at obtaining an agile methodology for expert systems that will help us in the development and implementation of this type of systems.
+C1 [Mejia Penafiel, Edwin Fernando] Escuela Super Politecn Chimborazo, Fac Mecan, Riobamba, Ecuador.
+   [Vaca Barahona, Byron; Menes Camejo, Ivan] Escuela Super Politecn Chimborazo, Fac Informat & Elect, Riobamba, Ecuador.
+RP Penafiel, EFM (autor correspondente), Escuela Super Politecn Chimborazo, Fac Mecan, Riobamba, Ecuador.
+EM msmejiaedwinf@yahoo.com
+CR [Anonymous], 2017, SISTEMAS EXPERTOS IN
+   BADARO S., 2013, SISTEMAS EXPERTOS FU
+   Bustillos S.M., 2018, SISTEMAS EXPERTOS AS
+   Chacaltana H., 2017, SISTEMA EXPERTO DIAG
+   Ferrer Y., 2016, SISTEMA EXPERTO ELEC
+   Nebendahl D, 1991, SISTEMAS EXPERTOS
+   Rossini P., 2016, IJET INT J ENG TECHN, V5
+   Waltz DL, 1997, AI MAG, V18, P49
+NR 8
+TC 0
+Z9 0
+U1 0
+U2 3
+PU KNOWLEDGE E
+PI DUBAI
+PA OFFICE 4402, X2 TOWER, JLT, PO BOX 488239, DUBAI, 00000, U ARAB EMIRATES
+PY 2018
+BP 235
+EP 254
+DI 10.18502/keg.v3i9.3658
+PG 20
+WC Computer Science, Interdisciplinary Applications; Computer Science,
+   Theory & Methods
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science
+GA BM7MP
+UT WOS:000468150200017
+OA gold
+DA 2022-12-08
+ER
+
+PT C
+AU Tessarolo, F
+   Nollo, G
+   Conotter, V
+   Onorati, G
+   Konstantinidis, EI
+   Petsani, D
+   Bamidis, PD
+AF Tessarolo, Francesco
+   Nollo, Giandomenico
+   Conotter, Valentina
+   Onorati, Giulia
+   Konstantinidis, Evdokimos, I
+   Petsani, Despoina
+   Bamidis, Panagiotis D.
+GP IEEE
+TI User-centered co-design and AGILE methodology for developing ambient
+   assisting technologies Study plan and methodological framework of the
+   CAPTAIN project
+SO 2019 IEEE 23RD INTERNATIONAL SYMPOSIUM ON CONSUMER TECHNOLOGIES (ISCT)
+LA English
+DT Proceedings Paper
+CT IEEE 23rd International Symposium on Consumer Technologies (ISCT)
+CY JUN 19-21, 2019
+CL Ancona, ITALY
+SP IEEE
+DE living lab; co-creation; participatory design; AGILE; planning
+AB CAPTAIN project (Coach Assistant via Projected and TAngible INterface) is part of a research and innovation action, funded by the European Union, which aims at developing an innovative technology to help older adults overcoming frailties as they age. CAPTAIN will develop behavioral and Artificial Intelligence (AI) algorithms to provide personalized advice, guidance and follow-up to compensate for key age-related impairments during daily living, helping older adults to remain active and independent at their home. This will include risk avoidance, nutrition guidance, physical activity and cognitive training follow-up, guidance for lifestyle and social participation. A hybrid approach leveraging on concept from Design Thinking, Lean Startup approach and Scrum Agile framework will be followed by the project. The study plan, developed to coordinate and synchronize activities among all the different technological partners and living laboratories at pilot sites, is presented.
+C1 [Tessarolo, Francesco; Nollo, Giandomenico] Univ Trento, Dept Ind Engn, Trento, Italy.
+   [Tessarolo, Francesco; Nollo, Giandomenico] Bruno Kessler Fdn, Healthcare Res & Innovat Program, Trento, Italy.
+   [Conotter, Valentina; Onorati, Giulia] SocialIT Srl, Trento, Italy.
+   [Konstantinidis, Evdokimos, I; Petsani, Despoina; Bamidis, Panagiotis D.] Aristotle Univ Thessaloniki, Lab Med Phys, Thessaloniki, Greece.
+C3 University of Trento; Fondazione Bruno Kessler; Aristotle University of
+   Thessaloniki
+RP Tessarolo, F (autor correspondente), Univ Trento, Dept Ind Engn, Trento, Italy.; Tessarolo, F (autor correspondente), Bruno Kessler Fdn, Healthcare Res & Innovat Program, Trento, Italy.
+RI Petsani, Despoina/O-7469-2019; Konstantinidis, Evdokimos/F-2498-2019
+OI Petsani, Despoina/0000-0003-0273-6890; Bamidis,
+   Panagiotis/0000-0002-9936-5805; Tessarolo,
+   Francesco/0000-0003-4022-5602; Konstantinidis,
+   Evdokimos/0000-0002-5522-9553
+FU European Union [769830]
+FX CAPTAIN project has received funding from the European Union's Horizon
+   2020 research and innovation program under grant agreement No 769830.
+CR Anzivino S., 2019, LECT NOTES ELECT ENG, V544, P47
+   Bouma H., 2004, P HUM FACT COMP SYST, P1580, DOI [10.1145/985921.986154, DOI 10.1145/985921.986154]
+   Centers for Disease Control and Prevention (CDC), 2013, STAT AG HLTH AM 2013
+   Charness N, 2009, CURR DIR PSYCHOL SCI, V18, P253, DOI 10.1111/j.1467-8721.2009.01647.x
+   Hawthorn D, 1998, OZCHI 98 - 1998 AUSTRALASIAN COMPUTER HUMAN INTERACTION CONFERENCE, PROCEEDINGS, P270, DOI 10.1109/OZCHI.1998.732224
+   Pisoni T., 2016, SMART CIT C ISC2 201, P1
+   Ries E., 2011, LEAN STARTUP TODAYS
+   Rogers W.A., 2004, CHI 04 HUM FACT COMP, P1071
+   Schwaber K., 2017, SCRUM GUIDE DEFIN GU
+NR 9
+TC 1
+Z9 1
+U1 0
+U2 4
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-7281-3570-0
+PY 2019
+BP 283
+EP 286
+PG 4
+WC Computer Science, Interdisciplinary Applications; Computer Science,
+   Theory & Methods
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science
+GA BQ3NW
+UT WOS:000587279800061
+DA 2022-12-08
+ER
+
+PT J
+AU Beilharz, F
+   Sukunesan, S
+   Rossell, SL
+   Kulkarni, J
+   Sharp, G
+AF Beilharz, Francesca
+   Sukunesan, Suku
+   Rossell, Susan L.
+   Kulkarni, Jayashri
+   Sharp, Gemma
+TI Development of a Positive Body Image Chatbot (KIT) With Young People and
+   Parents/Carers: Qualitative Focus Group Study
+SO JOURNAL OF MEDICAL INTERNET RESEARCH
+LA English
+DT Article
+DE body image; eating disorder; chatbot; conversational agent; artificial
+   intelligence; mental health; digital health; design
+ID MENTAL-DISORDERS; EATING-DISORDERS; INTERVENTIONS; PREVALENCE; TRIAL
+AB Background: Body image and eating disorders represent a significant public health concern; however, many affected individuals never access appropriate treatment. Conversational agents or chatbots reflect a unique opportunity to target those affected online by providing psychoeducation and coping skills, thus filling the gap in service provision.
+   Objective: A world-first body image chatbot called "KIT" was designed. The aim of this study was to assess preliminary acceptability and feasibility via the collection of qualitative feedback from young people and parents/carers regarding the content, structure, and design of the chatbot, in accordance with an agile methodology strategy. The chatbot was developed in collaboration with Australia's national eating disorder support organization, the Butterfly Foundation.
+   Methods: A conversation decision tree was designed that offered psychoeducational information on body image and eating disorders, as well as evidence-based coping strategies. A version of KIT was built as a research prototype to deliver these conversations. Six focus groups were conducted using online semistructured interviews to seek feedback on the KIT prototype. This included four groups of people seeking help for themselves (n=17; age 13-18 years) and two groups of parents/carers (n=8; age 46-57 years). Participants provided feedback on the cartoon chatbot character design, as well as the content, structure, and design of the chatbot webchat.
+   Results: Thematic analyses identified the following three main themes from the six focus groups: (1) chatbot character and design, (2) content presentation, and (3) flow. Overall, the participants provided positive feedback regarding KIT, with both young people and parents/carers generally providing similar reflections. The participants approved of KIT's character and engagement. Specific suggestions were made regarding the brevity and tone to increase KIT's interactivity.
+   Conclusions: Focus groups provided overall positive qualitative feedback regarding the content, structure, and design of the body image chatbot. Incorporating the feedback of lived experience from both individuals and parents/carers allowed the refinement of KIT in the development phase as per an iterative agile methodology. Further research is required to evaluate KIT's efficacy.
+C1 [Beilharz, Francesca; Kulkarni, Jayashri; Sharp, Gemma] Monash Univ, Monash Alfred Psychiat Res Ctr, 4-607 St Kilda Rd, Melbourne, Vic 3004, Australia.
+   [Sukunesan, Suku] Swinburne Univ Technol, Swinburne Business Sch, Melbourne, Vic, Australia.
+   [Rossell, Susan L.] Swinburne Univ Technol, Ctr Mental Hlth, Melbourne, Vic, Australia.
+   [Rossell, Susan L.] St Vincents Hosp, Psychiat, Melbourne, Vic, Australia.
+C3 Monash University; Swinburne University of Technology; Swinburne
+   University of Technology; St Vincent's Hospital Melbourne
+RP Sharp, G (autor correspondente), Monash Univ, Monash Alfred Psychiat Res Ctr, 4-607 St Kilda Rd, Melbourne, Vic 3004, Australia.
+EM gemma.sharp@monash.edu
+RI sinnappan, Sukunesan/AFQ-7313-2022
+OI Rossell, Susan/0000-0002-7415-8252
+FU AMP Tomorrow Maker Grant; National Health and Medical Research Council
+   (NHMRC) Early Career Fellowship [GNT1146033]; NHMRC [GNT1154651]
+FX The authors would like to thank the focus group participants for their
+   valuable participation and for sharing their lived experience, and Dr
+   Sally Bradford for her invaluable support in the earliest stages of this
+   project. The authors would also like to thank Dr Sarah Rotstein and
+   Marcia Scott for their creative support. The development of KIT was a
+   collaboration with the Butterfly Foundation (Melissa Wilton, Belinda
+   Kerslake, Juliette Thomson, Alex Cowen, and Michaela Del Casale),
+   chatbot production company Proxima (Sebastian Pedavoli, Dan Nolan, and
+   Roshni Roy), and graphic design team Yoke (Sarah Lawrey, Ryan
+   Nadzielski, and Krysa Allison). GS was the recipient of an AMP Tomorrow
+   Maker Grant to fund this project and holds a National Health and Medical
+   Research Council (NHMRC) Early Career Fellowship (GNT1146033). SLR holds
+   a Senior NHMRC Fellowship (GNT1154651).
+CR Abd-Alrazaq AA, 2021, J MED INTERNET RES, V23, DOI 10.2196/17828
+   Abd-alrazaq AA, 2019, INT J MED INFORM, V132, DOI 10.1016/j.ijmedinf.2019.103978
+   Abd-Alrazaq AA, 2020, J MED INTERNET RES, V22, DOI 10.2196/16021
+   Alleva JM, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0139177
+   [Anonymous], 2015, BUTTERFLY REPORT INV
+   [Anonymous], ARE THEY OLD ENOUGH
+   [Anonymous], 2012, BUTTERFLY REPORT PAY
+   [Anonymous], 2018, INSIGHTS BODY ESTEEM
+   Atwood ME, 2020, INT J EAT DISORDER, V53, P311, DOI 10.1002/eat.23206
+   Bickmore TW, 2010, INTERACT COMPUT, V22, P289, DOI 10.1016/j.intcom.2009.12.001
+   Braun V., 2006, QUALITATIVE RES PSYC, V3, P77, DOI [10.1191/1478088706qp063oa, DOI 10.1191/1478088706QP063OA]
+   Fardouly J, 2015, BODY IMAGE, V13, P38, DOI 10.1016/j.bodyim.2014.12.002
+   Fast E, 2018, PROCEEDINGS OF THE 2018 CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS (CHI 2018), DOI 10.1145/3173574.3174047
+   Fernando AN, 2020, BODY IMAGE, V35, P75, DOI 10.1016/j.bodyim.2020.08.007
+   Fitzpatrick KK, 2017, JMIR MENT HEALTH, V4, DOI 10.2196/mental.7785
+   Fuller-Tyszkiewicz M, 2019, COMPUT HUM BEHAV, V95, P58, DOI 10.1016/j.chb.2019.01.028
+   Galmiche M, 2019, AM J CLIN NUTR, V109, P1402, DOI 10.1093/ajcn/nqy342
+   Heruc G, 2020, J EAT DISORD, V8, DOI 10.1186/s40337-020-00341-0
+   Hoiland Camilla Gudmundsen, 2020, HUMAN TECHNOLOGY, V16, P139, DOI DOI 10.17011/HT/URN.202008245640
+   Hurst K, 2020, J EAT DISORD, V8, DOI 10.1186/s40337-020-00333-0
+   Inkster B, 2018, JMIR MHEALTH UHEALTH, V6, DOI 10.2196/12106
+   Jones RB, 2020, JMIR MENT HEALTH, V7, DOI 10.2196/14536
+   Kannan V, 2017, 2017 IEEE-NIH HEALTHCARE INNOVATIONS AND POINT OF CARE TECHNOLOGIES (HI-POCT), P56, DOI 10.1109/HIC.2017.8227583
+   Linardon J, 2019, COGN BEHAV THERAPY, V48, P15, DOI 10.1080/16506073.2018.1517389
+   Linardon J, 2017, J CONSULT CLIN PSYCH, V85, P1080, DOI 10.1037/ccp0000245
+   Lucas GM, 2014, COMPUT HUM BEHAV, V37, P94, DOI 10.1016/j.chb.2014.04.043
+   Nahum-Shani I, 2018, ANN BEHAV MED, V52, P446, DOI 10.1007/s12160-016-9830-8
+   Park S, 2019, J MED INTERNET RES, V21, DOI 10.2196/12231
+   Smink FRE, 2012, CURR PSYCHIAT REP, V14, P406, DOI 10.1007/s11920-012-0282-y
+   Steel Z, 2014, INT J EPIDEMIOL, V43, P476, DOI 10.1093/ije/dyu038
+   Strubel J, 2020, BODY IMAGE, V35, P53, DOI 10.1016/j.bodyim.2020.08.004
+   Tankovska H., NUMBER GLOBAL SOCIAL
+   Tiggemann M, 2020, BODY IMAGE, V33, P175, DOI 10.1016/j.bodyim.2020.03.002
+   Trautmann S, 2016, EMBO REP, V17, P1245, DOI 10.15252/embr.201642951
+   Vaidyam AN, 2021, CAN J PSYCHIAT, V66, P339, DOI 10.1177/0706743720966429
+   Wade T, 2009, J CONSULT CLIN PSYCH, V77, P845, DOI 10.1037/a0016879
+NR 36
+TC 12
+Z9 12
+U1 9
+U2 27
+PU JMIR PUBLICATIONS, INC
+PI TORONTO
+PA 130 QUEENS QUAY E, STE 1102, TORONTO, ON M5A 0P6, CANADA
+SN 1438-8871
+J9 J MED INTERNET RES
+JI J. Med. Internet Res.
+PD JUN 16
+PY 2021
+VL 23
+IS 6
+AR e27807
+DI 10.2196/27807
+PG 12
+WC Health Care Sciences & Services; Medical Informatics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Health Care Sciences & Services; Medical Informatics
+GA SU6KR
+UT WOS:000663244300002
+PM 34132644
+OA Green Published, gold
+DA 2022-12-08
+ER
+
+PT J
+AU Caldwell, S
+   Sweetser, P
+   O'Donnell, N
+   Knight, MJ
+   Aitchison, M
+   Gedeon, T
+   Johnson, D
+   Brereton, M
+   Gallagher, M
+   Conroy, D
+AF Caldwell, Sabrina
+   Sweetser, Penny
+   O'Donnell, Nicholas
+   Knight, Matthew J.
+   Aitchison, Matthew
+   Gedeon, Tom
+   Johnson, Daniel
+   Brereton, Margot
+   Gallagher, Marcus
+   Conroy, David
+TI An Agile New Research Framework for Hybrid Human-Al Teaming: Trust,
+   Transparency, and Transferability
+SO ACM TRANSACTIONS ON INTERACTIVE INTELLIGENT SYSTEMS
+LA English
+DT Article
+DE Hybrid teams; human-machine; human-AI; teaming; collaboration; trust;
+   transparency; video games
+ID ARTIFICIAL-INTELLIGENCE; DECISION-MAKING; SITUATION AWARENESS; KNOWLEDGE
+   TRANSFER; INFORMATION; PERFORMANCE; HEURISTICS; CREDIBILITY; OPERATIONS;
+   AUTOMATION
+AB We propose a new research framework by which the nascent discipline of human-AI teaming can be explored within experimental environments in preparation for transferal to real-world contexts. We examine the existing literature and unanswered research questions through the lens of an Agile approach to construct our proposed framework. Our framework aims to provide a structure for understanding the macro features of this research landscape, supporting holistic research into the acceptability of human-AI teaming to human team members and the affordances of AI team members. The framework has the potential to enhance decision-making and performance of hybrid human-AI teams. Further, our framework proposes the application of Agile methodology for research management and knowledge discovery. We propose a transferability pathway for hybrid teaming to be initially tested in a safe environment, such as a real-time strategy video game, with elements of lessons learned that can be transferred to real-world situations.
+C1 [Caldwell, Sabrina; Sweetser, Penny; Aitchison, Matthew; Gedeon, Tom] Australian Natl Univ, Canberra, ACT 2601, Australia.
+   [O'Donnell, Nicholas; Johnson, Daniel; Brereton, Margot; Conroy, David] Queensland Univ Technol, 2 George St, Brisbane, Qld 4000, Australia.
+   [Knight, Matthew J.] Def Sci & Technol, Third Ave, Edinburgh, SA 5111, Australia.
+   [Gallagher, Marcus] Univ Queensland, St Lucia, Qld 4072, Australia.
+C3 Australian National University; Queensland University of Technology
+   (QUT); University of Queensland
+RP Caldwell, S (autor correspondente), Australian Natl Univ, Canberra, ACT 2601, Australia.
+EM sabrina.caldwell@anu.edu.au; penny.kyburz@anu.edu.au;
+   Matthew.Knight@dst.defence.gov.au; matthew.aitchison@anu.edu.au;
+   tom.gedeon@anu.edu.au; dm.johnson@qut.edu.au; m.brereton@qut.edu.au;
+   marcusg@uq.edu.au; david.conroy@qut.edu.au
+FU Commonwealth of Australia
+FX The Commonwealth of Australia (represented by the Defence Science and
+   Technology Group) supported this research through a Defence Science
+   Partnerships agreement.
+CR Abbass Hussein A., 2018, FDN TRUSTED AUTONOMY, V117
+   Adish Singla, 2020, Arxiv, DOI arXiv:1910.02330
+   Akilal Karim, 2019, ACM INT C PROCEEDING, DOI [10.1145/3341325.3342021, DOI 10.1145/3341325.3342021]
+   Aldini A, 2018, ACM T MODEL COMPUT S, V28, DOI 10.1145/3155337
+   Alshehri A, 2021, INT J INTELL SYST, V36, P5959, DOI 10.1002/int.22536
+   Alvarado-Valencia JA, 2014, COMPUT HUM BEHAV, V36, P102, DOI 10.1016/j.chb.2014.03.047
+   Amershi S, 2019, CHI 2019: PROCEEDINGS OF THE 2019 CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, DOI 10.1145/3290605.3300233
+   Andersen PA, 2018, IEEE CONF COMPU INTE, P149
+   Aranyi G, 2016, FRONT COMPUT NEUROSC, V10, DOI 10.3389/fncom.2016.00070
+   Arquilla John, 1999, EMERGENCE NOOPOLITIK
+   Arquilla John, 2000, SWARMING FUTURE CONF
+   Arthur Szlam, 2016, Arxiv, DOI arXiv:1511.07401
+   Atkinson David J., 2013, AAAI SPRING S, P2
+   Atkinson David J., 2012, 4 IEEE WORKSHOP HUMA
+   Australian Defence Force, 2019, ADF CONC COMM CONTR
+   Avontuur T., 2013, P AAAI C ART INT DIG, V9
+   Bansal G., 2019, AAAI C HUMAN COMPUTA, V7, P2
+   Bansal G, 2019, AAAI CONF ARTIF INTE, P2429
+   Bellemare MG, 2013, J ARTIF INTELL RES, V47, P253, DOI 10.1613/jair.3912
+   Beyer JM, 1997, J MANAGE INQUIRY, V6, P17, DOI 10.1177/105649269761004
+   Bhaskara A, 2021, APPL ERGON, V90, DOI 10.1016/j.apergo.2020.103243
+   Bhaskara A, 2020, IEEE T HUM-MACH SYST, V50, P215, DOI 10.1109/THMS.2020.2965529
+   Bittner EAC, 2014, J MANAGE INFORM SYST, V31, P111, DOI 10.2753/MIS0742-1222310106
+   Blaze M, 1996, P IEEE S SECUR PRIV, P164, DOI 10.1109/SECPRI.1996.502679
+   Blom M, 2020, J DEF MODEL SIMUL-AP, V17, P55, DOI 10.1177/1548512918798056
+   Bo Li, 2018, Arxiv, DOI arXiv:1809.07193
+   Bonebright DA, 2010, HUM RESOUR DEV INT, V13, P111, DOI 10.1080/13678861003589099
+   Briggs Robert O., 2009, 30 INT C INFORM SYST
+   Brill Zachary M, 2018, P 16 INT C COGNITIVE, P9
+   Broniatowski DA, 2018, DECISION-WASHINGTON, V5, P205, DOI 10.1037/dec0000083
+   Buro M., 2003, IJCAI 03 P 18 INT JO, P1534
+   Cai Carrie J., 2019, Proceedings of the ACM on Human-Computer Interaction, V3, DOI 10.1145/3359206
+   Caldwell Sabrina, 2015, P WORLD C ELECT ENG, P1
+   Caldwell Sabrina, 2015, IMPERFECT UNDERSTAND, V308, P1
+   Canonico Lorenzo Barberis, 2019, THESIS, P2490
+   Carcagni P, 2014, LECT NOTES ARTIF INT, V8755, P74, DOI 10.1007/978-3-319-11973-1_8
+   Cevik P, 2013, J INTELL ROBOT SYST, V70, P595, DOI 10.1007/s10846-012-9698-1
+   Chan B, 2019, ARXIV
+   Chattopadhyay Prithvijit, 2017, 5 AAAI C HUMAN COMPU
+   Chen Jessie Y., 2014, ADA600351 ARM RES LA
+   Chen JYC, 2018, THEOR ISS ERGON SCI, V19, P259, DOI 10.1080/1463922X.2017.1315750
+   Chien S.-Y., 2015, HUMAN FACTORS ERGONO, V59, P686, DOI [10.1177/1541931215591149, DOI 10.1177/1541931215591149]
+   Cho JH, 2016, IEEE MILIT COMMUN C, P1237, DOI 10.1109/MILCOM.2016.7795500
+   Choppy Christine, 2011, CEURWORKSH PROC, V723, P109
+   Chugh K, 2019, S VIS LANG HUM CEN C, P35, DOI 10.1109/VLHCC.2019.8818871
+   Conway Dan, 2016, C HUMAN FACTORS COMP, P3035, DOI [10.1145/2851581.2892433, DOI 10.1145/2851581.2892433]
+   Corti K, 2016, COMPUT HUM BEHAV, V58, P431, DOI 10.1016/j.chb.2015.12.039
+   Crowder James A., 2014, INT C INFORM KNOWLED
+   Crowder James A., 2017, INT C ARTIFICIAL INT, P171
+   Dakuo Wang, 2019, Proceedings of the ACM on Human-Computer Interaction, V3, DOI 10.1145/3359313
+   DARPA, 2020, GAM AI EFF GETS WAY
+   David R.A., 2016, DEFENSE SCI BOARD SU
+   de Guinea AO, 2012, INFORM MANAGE-AMSTER, V49, P301, DOI 10.1016/j.im.2012.08.003
+   de Visser EJ, 2020, INT J SOC ROBOT, V12, P459, DOI 10.1007/s12369-019-00596-x
+   de Visser EJ, 2018, ERGONOMICS, V61, P1409, DOI 10.1080/00140139.2018.1457725
+   Dearden A, 2000, INT J HUM-COMPUT ST, V52, P289, DOI 10.1006/ijhc.1999.0290
+   Dellermann D, 2019, BUS INFORM SYST ENG+, V61, P637, DOI 10.1007/s12599-019-00595-2
+   Denning Stephen, 2016, Strategy & Leadership, V44, P10, DOI 10.1108/SL-06-2016-0043
+   Dennis AR, 2008, MIS QUART, V32, P575
+   Depping AE, 2016, CHI PLAY 2016: PROCEEDINGS OF THE 2016 ANNUAL SYMPOSIUM ON COMPUTER-HUMAN INTERACTION IN PLAY, P116, DOI 10.1145/2967934.2968097
+   Donadio Bianca T., 2020, 2020 SYSTEMS INFORM, P1
+   Draper Mark, 2018, DTIC SCI TECHNOL
+   Du N, 2020, HUM FACTORS, V62, P987, DOI 10.1177/0018720819862916
+   Duan YQ, 2019, INT J INFORM MANAGE, V48, P63, DOI 10.1016/j.ijinfomgt.2019.01.021
+   Dubey A, 2020, ISOFT: PROCEEDINGS OF THE 13TH INNOVATIONS IN SOFTWARE ENGINEERING CONFERENCE, DOI 10.1145/3385032.3385044
+   Dwivedi YK, 2021, INT J INFORM MANAGE, V57, DOI 10.1016/j.ijinfomgt.2019.08.002
+   Ebener S, 2006, B WORLD HEALTH ORGAN, V84, P636, DOI 10.2471/BLT.06.029736
+   ENDSLEY MR, 1995, HUM FACTORS, V37, P32, DOI 10.1518/001872095779049543
+   Ezer Neta, 2019, Proceedings of the Human Factors and Ergonomics Society Annual Meeting, V63, P322, DOI 10.1177/1071181319631264
+   Feitelson Dror G., 2015, ACM SIGOPS Operating Systems Review, V49, P3
+   Feuerriegel S, 2020, BUS INFORM SYST ENG+, V62, P379, DOI 10.1007/s12599-020-00650-3
+   Fitzhugh EW, 2011, HUM FACT DEFENCE, P197
+   Foster Lori L., 2000, CHIOD EXTENDED ABSTR, V153, P154, DOI [10.1115/633292.633378, DOI 10.1115/633292.633378]
+   Frommel J, 2020, PROCEEDINGS OF THE 2020 CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS (CHI'20), DOI 10.1145/3313831.3376446
+   Furuta Kazuo, 2015, REFLECTIONS FUKUSHIM, P435, DOI [10.1007/978-3-319-12090-4-_}24, DOI 10.1007/978-3-319-12090-4-_}24]
+   Griffith TL, 2001, RES ORGAN BEHAV, V23, P379, DOI 10.1016/S0191-3085(01)23009-3
+   Gutwin C, 2016, CHI PLAY 2016: PROCEEDINGS OF THE 2016 ANNUAL SYMPOSIUM ON COMPUTER-HUMAN INTERACTION IN PLAY, P338, DOI 10.1145/2967934.2968101
+   Gutzwiller RS, 2021, HUM FACTORS, V63, P854, DOI 10.1177/0018720820903893
+   Guzman AL, 2020, NEW MEDIA SOC, V22, P70, DOI 10.1177/1461444819858691
+   Haitao Long, 2017, Arxiv, DOI arXiv:1703.10069
+   Han JG, 2013, IEEE T CYBERNETICS, V43, P1318, DOI 10.1109/TCYB.2013.2265378
+   Harding G, 2010, J VISION, V10, DOI 10.1167/10.2.8
+   Harteveld C, 2019, PROCEEDINGS OF THE 14TH INTERNATIONAL CONFERENCE ON THE FOUNDATIONS OF DIGITAL GAMES (FDG'19), DOI 10.1145/3337722.3337731
+   Heyer Clint, 2010, 8 ACM C DES INT SYST, P282, DOI 10.1145/1858171.1858222
+   Hind Michael, 2020, CHI EA '20: Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems, P1, DOI 10.1145/3334480.3383051
+   Hoffman RR, 2013, IEEE INTELL SYST, V28, P84, DOI 10.1109/MIS.2013.24
+   HOLLNAGEL E, 1983, INT J MAN MACH STUD, V18, P583, DOI 10.1016/S0020-7373(83)80034-0
+   Hollnagel E., 2005, JOINT COGNITIVE SYST
+   Holzinger A, 2021, INFORM FUSION, V71, P28, DOI 10.1016/j.inffus.2021.01.008
+   Holzinger A, 2020, KUNSTL INTELL, V34, P193, DOI 10.1007/s13218-020-00636-z
+   Hossain MZ, 2019, INT J HUM-COMPUT ST, V122, P232, DOI 10.1016/j.ijhcs.2018.10.003
+   Hu Xin, 2019, BRAIN SCI ADV, V5, P1, DOI [10.1177/2096595819896200, DOI 10.1177/2096595819896200]
+   Hu Z, 2014, J BUS RES, V67, P1710, DOI 10.1016/j.jbusres.2014.02.017
+   Huberman Michael, 1994, KNOWLEDGE POLICY, V7, P13, DOI [DOI 10.1007/BF02696290, 10.1007/BF02696290]
+   Islam A, 2019, 2019 IEEE INTERNATIONAL CONFERENCE ON ARTIFICIAL INTELLIGENCE AND VIRTUAL REALITY (AIVR), P33, DOI 10.1109/AIVR46125.2019.00015
+   Itti L, 2000, VISION RES, V40, P1489, DOI 10.1016/S0042-6989(99)00163-7
+   Iyer R, 2018, PROCEEDINGS OF THE 2018 AAAI/ACM CONFERENCE ON AI, ETHICS, AND SOCIETY (AIES'18), P144, DOI 10.1145/3278721.3278776
+   Jacobsson M, 2016, INT J PROJ MANAG, V34, P584, DOI 10.1016/j.ijproman.2016.02.001
+   Jaffe Alexander, 2012, P AAAI C ART INT INT
+   James Goodman, 2020, Arxiv, DOI arXiv:2009.08922
+   Jian J.-Y., 2000, INT J COGNITIVE ERGO, V4, P53, DOI [10.1186/s13054-016-1208-6, DOI 10.1207/S15327566IJCE0401_04, https://doi.org/10.1207/S15327566IJCE0401_04]
+   Johnson B, 2018, STUD SYST DECIS CONT, V117, P47, DOI 10.1007/978-3-319-64816-3_3
+   Johnson B, 2019, AI MAG, V40, P63, DOI 10.1609/aimag.v40i1.2852
+   Johnson M., 2016, P 25 INT JOINT C ART, P4246
+   Johnson SD, 2002, COMPUT EDUC, V39, P379, DOI 10.1016/S0360-1315(02)00074-X
+   Kahneman D, 2015, FORTUNE, V172, P20
+   Kamar E., 2016, P 25 INT JOINT C ART, P4070
+   Kambhampati S, 2019, AAMAS '19: PROCEEDINGS OF THE 18TH INTERNATIONAL CONFERENCE ON AUTONOMOUS AGENTS AND MULTIAGENT SYSTEMS, P1
+   Kempka M, 2016, IEEE CONF COMPU INTE
+   Kiefer L, 2005, CAN J PUBLIC HEALTH, V96, pI1
+   Kim PH, 2006, ORGAN BEHAV HUM DEC, V99, P49, DOI 10.1016/j.obhdp.2005.07.002
+   Kim Taemie, 2006, P 15 IEEE INT S ROB
+   Kim T, 2020, CHI'20: EXTENDED ABSTRACTS OF THE 2020 CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, DOI 10.1145/3334480.3383038
+   Kim YH, 2015, J NEUROSCI, V35, P10485, DOI 10.1523/JNEUROSCI.3340-14.2015
+   Kisielnicki J, 2017, FOUND MANAGE, V9, P273, DOI 10.1515/fman-2017-0021
+   Kleinman Erica, 2020, FDG '20: International Conference on the Foundations of Digital Games, DOI 10.1145/3402942.3402962
+   Kobbacy KAH, 2007, J OPER RES SOC, V58, P10, DOI 10.1057/palgrave.jors.2602132
+   Kocaballi AB, 2020, J AM MED INFORM ASSN, V27, P1695, DOI 10.1093/jamia/ocaa131
+   Kogtikov N, 2016, PROCEDIA COMPUT SCI, V80, P1989, DOI 10.1016/j.procs.2016.05.519
+   Kohn Spencer C., 2018, Proceedings of the Human Factors and Ergonomics Society Annual Meeting, V62, P1108, DOI 10.1177/1541931218621254
+   Kokkinakis AV, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0186621
+   Kwon S, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0185583
+   Lasecki Walter S., 2019, 7 ANN ACM C COLLECTI
+   Lavis JN, 2003, MILBANK Q, V81, P221, DOI 10.1111/1468-0009.t01-1-00052
+   Lee JD, 2004, HUM FACTORS, V46, P50, DOI 10.1518/hfes.46.1.50.30392
+   Lemaignan S, 2017, ARTIF INTELL, V247, P45, DOI 10.1016/j.artint.2016.07.002
+   Lewis M, 2018, STUD SYST DECIS CONT, V117, P135, DOI 10.1007/978-3-319-64816-3_8
+   Li L, 2016, PSYCHOL SCI, V27, P1092, DOI 10.1177/0956797616650300
+   Liang C, 2019, CHI 2019: PROCEEDINGS OF THE 2019 CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, DOI 10.1145/3290605.3300325
+   Lyons Joseph B., 2014, Virtual, Augmented and Mixed Reality. Designing and Developing Virtual and Augmented Environments. 6th International Conference, VAMR 2014, Held as Part of HCI International 2014. Proceedings: LNCS 8525, P181, DOI 10.1007/978-3-319-07458-0_18
+   Lyons Joseph B., 2013, 2013 AAAI SPRING S S
+   Ma-Wyatt Anna, 2018, INT C SCI INNOVATION
+   Madan Christopher R., 2020, CHALLENGES, V11, P18, DOI [10.3390/challe11020018, DOI 10.3390/CHALLE11020018]
+   Madumal P, 2020, AAAI CONF ARTIF INTE, V34, P2493
+   Manchin A, 2019, COMM COM INF SC, V1143, P223, DOI 10.1007/978-3-030-36802-9_25
+   Martinez Jonathan, 2020, TECHNICAL REPORT
+   Marusich LR, 2016, HUM FACTORS, V58, P301, DOI 10.1177/0018720815619515
+   Mergel I, 2018, GOV INFORM Q, V35, P291, DOI 10.1016/j.giq.2018.04.003
+   Merritt T., 2012, P SIGCHI C HUM FACT, P2793, DOI [10.1145/2207676.2208680, DOI 10.1145/2207676.2208680]
+   Merritt Tim, 2011, ACM C COMP SUPP COOP, P685
+   Mesmer-Magnus JR, 2011, ORGAN BEHAV HUM DEC, V115, P214, DOI 10.1016/j.obhdp.2011.03.002
+   Metzger MJ, 2013, J PRAGMATICS, V59, P210, DOI 10.1016/j.pragma.2013.07.012
+   Metzger MJ, 2010, J COMMUN, V60, P413, DOI 10.1111/j.1460-2466.2010.01488.x
+   Miller Christopher A., 2004, ANN M AM HEL SOC, P2146
+   Miller T, 2017, J ARTIF INTELL RES, V58, P859, DOI 10.1613/jair.5381
+   Mitton C, 2007, MILBANK Q, V85, P729, DOI 10.1111/j.1468-0009.2007.00506.x
+   Mohaddesi Omid, 2020, CHI EA '20: Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems, P1, DOI 10.1145/3334480.3382996
+   Mohaddesi O, 2020, PROCEEDINGS OF THE 2020 CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS (CHI'20), DOI 10.1145/3313831.3376571
+   Mou Y, 2017, COMPUT HUM BEHAV, V72, P432, DOI 10.1016/j.chb.2017.02.067
+   Moussawi S, 2021, ELECTRON MARK, V31, P343, DOI 10.1007/s12525-020-00411-w
+   Moy Glennn, 2019, AI 2019: Advances in Artificial Intelligence. 32nd Australasian Joint Conference. Proceedings. Lecture Notes in Artificial Intelligence (LNAI 11919), P3, DOI 10.1007/978-3-030-35288-2_1
+   Mueller S.T., 2019, ARXIV
+   NASS C, 1994, HUMAN FACTORS IN COMPUTING SYSTEMS, CHI '94 CONFERENCE PROCEEDINGS - CELEBRATING INTERDEPENDENCE, P72, DOI 10.1145/191666.191703
+   Nguyen AT, 2018, UIST 2018: PROCEEDINGS OF THE 31ST ANNUAL ACM SYMPOSIUM ON USER INTERFACE SOFTWARE AND TECHNOLOGY, P189, DOI 10.1145/3242587.3242666
+   Nijholt A, 2009, ENTERTAIN COMPUT, V1, P85, DOI 10.1016/j.entcom.2009.09.007
+   Nushi B., 2018, P AAAI C HUM COMP CR, V6, P126
+   Ohlsson S, 2017, J EXP THEOR ARTIF IN, V29, P679, DOI 10.1080/0952813X.2016.1213060
+   Okamura K, 2020, PLOS ONE, V15, DOI 10.1371/journal.pone.0229132
+   Parasuraman R, 1997, HUM FACTORS, V39, P230, DOI 10.1518/001872097778543886
+   Pentland Alex, 2019, HUMAN AI DECISION SY
+   Petersen L., 2019, SAE INT J CONNECT AU, V2, P129, DOI 10.4271/12-02-02-0009
+   Pitso Teboho, 2020, SUPERCREATIVITYIMPRO, DOI [10.5772/intechopen.85054, DOI 10.5772/INTECHOPEN.85054]
+   Poser M., 2020, P 15 INT TAG WIRTSCH, P83, DOI DOI 10.30844/WI{_}2020{_}A6-POSER
+   Rahman JS, 2019, IEEE IJCNN
+   Rankin A, 2014, J COGN ENG DECIS MAK, V8, P78, DOI 10.1177/1555343413498753
+   Rashid T, 2018, PR MACH LEARN RES, V80
+   Reimers S, 2011, INT J FORECASTING, V27, P1196, DOI 10.1016/j.ijforecast.2010.08.004
+   REMPEL JK, 1985, J PERS SOC PSYCHOL, V49, P95, DOI 10.1037/0022-3514.49.1.95
+   Rishwaraj G, 2017, IEEE T CYBERNETICS, V47, P1925, DOI 10.1109/TCYB.2016.2634027
+   Robert Lionel P., 2015, C HUM FACT COMP SYST, P2097, DOI [10.1145/2702613.2732791, DOI 10.1145/2702613.2732791]
+   Robinette P, 2015, LECT NOTES ARTIF INT, V9388, P574, DOI 10.1007/978-3-319-25554-5_57
+   Rosenfeld A, 2017, ARTIF INTELL, V252, P211, DOI 10.1016/j.artint.2017.08.005
+   Sabin Philip., 2014, SIMULATING WAR STUDY
+   Saenz M.J., 2020, MIT SLOAN MANAGE REV, V61, P1
+   Scharre P., 2014, ROBOTICS BATTLEFIE 2
+   Scherer R, 2012, IEEE VIRTUAL REALITY CONFERENCE 2012 PROCEEDINGS, P163, DOI 10.1109/VR.2012.6180932
+   Schwartz PJ, 2020, PROC SPIE, V11413, DOI 10.1117/12.2560494
+   Seeber I, 2020, INFORM MANAGE-AMSTER, V57, DOI 10.1016/j.im.2019.103174
+   Seeber I, 2020, INTERNET RES, V30, P1, DOI 10.1108/INTR-12-2019-0503
+   Shih-Yi Chien, 2014, Cross-Cultural Design. 6th International Conference, CCD 2014, Held as Part of HCI International 2014. Proceedings: LNCS 8528, P35, DOI 10.1007/978-3-319-07308-8_4
+   Shonkoff JP, 2000, CHILD DEV, V71, P181, DOI 10.1111/1467-8624.00132
+   Singh R, 2020, ARTIF INTELL, V284, DOI 10.1016/j.artint.2020.103275
+   Smithson M, 2018, STUD SYST DECIS CONT, V117, P185, DOI 10.1007/978-3-319-64816-3_10
+   Sobkow A, 2020, INTELLIGENCE, V80, DOI 10.1016/j.intell.2020.101452
+   Sottilare Robert A, 2019, LNCS, V11597, DOI [10.1007/978-3-030-22341-0, DOI 10.1007/978-3-030-22341-0]
+   Strengers Y, 2020, PROCEEDINGS OF THE 2020 CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS (CHI'20), DOI 10.1145/3313831.3376315
+   Subbarao Kambhampati, 2018, Arxiv, DOI arXiv:1801.09854
+   Suchman L, 2007, LEARN DOING, P187
+   Sweetser Penny, 2008, EMERGENCE IN GAMES
+   Sycara K., 2006, LIT REV TEAMWORK MOD
+   Synnaeve Gabriel, 2016, ARXIV
+   Teruel MA, 2016, INFORM SOFTWARE TECH, V74, P17, DOI 10.1016/j.infsof.2016.01.009
+   Tomlinson EC, 2009, ACAD MANAGE REV, V34, P85, DOI 10.5465/AMR.2009.35713291
+   Traum D., 2003, P 2 INT JOINT C AUT, P441
+   TREISMAN AM, 1980, COGNITIVE PSYCHOL, V12, P97, DOI 10.1016/0010-0285(80)90005-5
+   TUCKMAN BW, 1965, PSYCHOL BULL, V63, P384, DOI 10.1037/h0022100
+   Turk M, 2014, PATTERN RECOGN LETT, V36, P189, DOI 10.1016/j.patrec.2013.07.003
+   Vail EF, 1999, INFORM SYST MANAGE, V16, P16, DOI 10.1201/1078/43189.16.4.19990901/31199.3
+   Van Den Bosch Karel, 2018, NATO IST 160 SPEC M
+   Vered M, 2020, IEEE T HUM-MACH SYST, V50, P264, DOI 10.1109/THMS.2020.2988859
+   Vinson DW, 2018, CHI 2018: EXTENDED ABSTRACTS OF THE 2018 CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, DOI 10.1145/3170427.3186326
+   Vinyals O., 2017, ARXIV
+   Vinyals O, 2019, NATURE, V575, P350, DOI 10.1038/s41586-019-1724-z
+   Wang L, 2009, HUM FACTORS, V51, P281, DOI 10.1177/0018720809338842
+   Weiss C., 1991, SOCIAL SCI MODERN ST, P307
+   WEISS CH, 1979, PUBLIC ADMIN REV, V39, P426, DOI 10.2307/3109916
+   Williams M, 2016, CHI PLAY 2016: PROCEEDINGS OF THE ANNUAL SYMPOSIUM ON COMPUTER-HUMAN INTERACTION IN PLAY COMPANION, P351, DOI 10.1145/2968120.2987733
+   Woltjer R., 2009, 14 INT COMM CONTR RE
+   Wright Julia L., 2013, EFFECTS LEVEL AUTONO
+   Yaohui Guo, 2020, CHI EA '20: Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems, P1, DOI 10.1145/3334480.3383007
+   You S, 2018, J ASSOC INF SYST, V19, P377, DOI 10.17705/1jais.00496
+   Zheng NN, 2017, FRONT INFORM TECH EL, V18, P153, DOI 10.1631/FITEE.1700053
+   Zhou JL, 2021, ELECTRONICS-SWITZ, V10, DOI 10.3390/electronics10050593
+   Zhu HL, 2017, J AFFECT DISORDERS, V221, P132, DOI 10.1016/j.jad.2017.06.024
+   Zhu XY, 2019, IEEE INT CONF INTELL, P147
+   Zhu Xuanying, 2020, IEEE INT C SYSTEMS
+NR 216
+TC 0
+Z9 0
+U1 11
+U2 11
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 2160-6455
+EI 2160-6463
+J9 ACM T INTERACT INTEL
+JI ACM Trans. Interact. Intell. Syst.
+PD SEP
+PY 2022
+VL 12
+IS 3
+AR 17
+DI 10.1145/3514257
+PG 36
+WC Computer Science, Artificial Intelligence
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 3V9XR
+UT WOS:000842011600001
+OA Bronze
+DA 2022-12-08
+ER
+
+PT J
+AU Ponce, EK
+   Cruz, MF
+   Andrade-Arenas, L
+AF Kcomt Ponce, Edwin
+   Flores Cruz, Melissa
+   Andrade-Arenas, Laberiano
+TI Machine Learning Applied to Prevention and Mental
+SO INTERNATIONAL JOURNAL OF ADVANCED COMPUTER SCIENCE AND APPLICATIONS
+LA English
+DT Article
+DE Artificial intelligence; machine learning; mental health; scrum;
+   sentiment analysis
+AB The present research aims to develop an application that allows the early and timely detection of signs of problems in the mental health of citizens. Agile methodology was used, with its SCRUM framework developing its four steps. In addition, technological tools such as artificial intelligence, mobile appli-cations, social networks and the python programming language were used. Also using SQL Server, Android Studio and the Marvel applications, the latter for the design of the prototypes, through the method of sentiment analysis and machine learning, in order to create a mobile application that is as accurate as possible in its results. For this, several types of algorithm were evaluated, managing to select the most appropriate one since it works based on information collected through the social networks Facebook and Twitter. The result that was obtained was the application that uses machine learning to prevent and take care of mental health in Peru, thus benefiting the citizens of society.
+C1 [Kcomt Ponce, Edwin; Flores Cruz, Melissa; Andrade-Arenas, Laberiano] Univ Ciencias & Humanidades, Fac Ciencias & Ingn, Lima, Peru.
+C3 Universidad de Ciencias y Humanidades
+RP Ponce, EK (autor correspondente), Univ Ciencias & Humanidades, Fac Ciencias & Ingn, Lima, Peru.
+RI Andrade Arenas, Laberiano/AFX-7404-2022
+OI Andrade Arenas, Laberiano/0000-0001-6797-6815
+FU University of Sciences and Humanities
+FX The research that was carried out was supported by the University of
+   Sciences and Humanities and its research insti-tute.
+CR Al Amrani Y, 2018, PROCEDIA COMPUT SCI, V127, P511, DOI 10.1016/j.procs.2018.01.150
+   Amachi-Choqque J, 2021, INT J ADV COMPUT SC, V12, P174
+   Arias-Marreros R, 2020, INT J ADV COMPUT SC, V11, P715
+   Biradar A., 2019, DETECTING DEPRESSION, V1037, DOI [10.1007/978-981-13-9187-3, DOI 10.1007/978-981-13-9187-3]
+   Cabanillas-Carbonell M., IJACSA INT J ADV COM, V12, P2021, DOI [10.14569/IJACSA.2021.0120749, DOI 10.14569/IJACSA.2021.0120749]
+   Castillo-Martel Y, 2019, S MENTAL HLTH SERVIC, V36, P2013
+   Cho G, 2019, PSYCHIAT INVEST, V16, P262, DOI 10.30773/pi.2018.12.21.2
+   Colegio de Psicologos del Peru, 2021, COL PSIC PER Y TEL P, P2018
+   Covid E. N. E. L. C., 2021, PLAN SALUD MENTAL, V2021, P2020
+   Delanerolle G., 2021, WOMENS HEALTH, V17
+   Devi DVN, 2016, INT CONF ADV COMPU, P3, DOI 10.1109/IACC.2016.11
+   Fonseka TM, 2019, AUST NZ J PSYCHIAT, V53, P954, DOI 10.1177/0004867419864428
+   Gomero-Fanny V, 2021, INT J ADV COMPUT SC, V12, P437
+   Huarcaya, 2020, REV PERU MED EXP SAL, V37, P7, DOI [10.17843/ rpmesp.2020.372.5419, DOI 10.17843/RPMESP.2020.372.5419, 10.17843/rpmesp.2020.372.5419]
+   Inkster B, 2018, JMIR MHEALTH UHEALTH, V6, DOI 10.2196/12106
+   IPSOS, 2021, GLOB HLTH MON 2021, P34
+   IPSOS, 2020, US RED SOC ENTR PER
+   Jha IP, 2021, JMIR MENT HEALTH, V8, DOI 10.2196/25097
+   Kaur H, 2021, INFORM SYST FRONT, V23, P1417, DOI 10.1007/s10796-021-10135-7
+   Kumari U., 2017, INT C ENERGY COMMUNI, P1469
+   MINSA Ministerio de Salud Peru, 2020, MINSA, V2021, P60
+   Ramos-Romero A, 2021, INT J ADV COMPUT SC, V12, P566
+   Rusca-Jordán Fiorella, 2020, Acta méd. Peru, V37, P556, DOI 10.35663/amp.2020.374.1851
+   Srividya M, 2018, J MED SYST, V42, DOI 10.1007/s10916-018-0934-5
+   Syarif Iwan, 2019, 2019 4 INT C COMP CO, P1
+   Thenral M, 2020, INDIAN J PSYCHOL MED, V42, P428, DOI 10.1177/0253717620952160
+   Tupia-Astoray A, 2021, INT J ADV COMPUT SC, V12, P672
+   Valle Rubén, 2020, Acta méd. Peru, V37, P285, DOI 10.35663/amp.2020.372.1072
+NR 28
+TC 0
+Z9 0
+U1 1
+U2 1
+PU SCIENCE & INFORMATION SAI ORGANIZATION LTD
+PI WEST YORKSHIRE
+PA 19 BOLLING RD, BRADFORD, WEST YORKSHIRE, 00000, ENGLAND
+SN 2158-107X
+EI 2156-5570
+J9 INT J ADV COMPUT SC
+JI Int. J. Adv. Comput. Sci. Appl.
+PD JAN
+PY 2022
+VL 13
+IS 1
+BP 823
+EP 831
+PG 9
+WC Computer Science, Theory & Methods
+WE Emerging Sources Citation Index (ESCI)
+SC Computer Science
+GA YY3QY
+UT WOS:000754706700001
+DA 2022-12-08
+ER
+
+PT C
+AU Proano, C
+   Villacis, C
+   Proano, V
+   Fuertes, W
+   Almache, M
+   Zambrano, M
+   Galarraga, F
+AF Proano, Carlos
+   Villacis, Cesar
+   Proano, Victor
+   Fuertes, Walter
+   Almache, Mario
+   Zambrano, Margarita
+   Galarraga, Fernando
+BE Derango, F
+   Calafate, CT
+   Voznak, M
+   Garro, A
+   Troppea, M
+TI Serious 3D Game over a Cluster Computing for Situated Learning of
+   Traffic Signals
+SO 2019 IEEE/ACM 23RD INTERNATIONAL SYMPOSIUM ON DISTRIBUTED SIMULATION AND
+   REAL TIME APPLICATIONS (DS-RT)
+SE IEEE ACM International Symposium on Distributed Simulation and Real-Time
+   Applications
+LA English
+DT Proceedings Paper
+CT 23rd IEEE/ACM International Symposium on Distributed Simulation and Real
+   Time Applications (DS-RT)
+CY OCT 07-09, 2019
+CL Cosenza, ITALY
+SP IEEE, Assoc Comp Machinery, IEEE Comp Soc, ACM SIGSIM, Univ Calabria, Dipartimento Ingn Informatica Modellistica Elettronica Sistemistica, Miur
+DE driving simulator; pedestrian simulation; artificial intelligence;
+   serious 3D game; road safety education
+AB this research presents a serious 3D game over a computer cluster that allows the learning of traffic signals so that the child is a responsible driver and pedestrian. For this purpose, we have applied an agile methodology to be able to produce a driving and pedestrian simulation system as a serious game, which includes a three-layer hierarchical architecture (orientation layer, management layer, and control layer). This architecture can be used to simulate three environments that are: a) Driver's environment; b) Pedestrian environment; c) Vehicle traffic observer environment. All these environments are controlled by intelligent agents that allow the user to handle the autonomous longitudinal control, the relative distance, the speed of the cars, the collisions between vehicles, the pedestrian collision, excess of the speed limit, circulation in the opposite direction, and respect of traffic signals. Our solution to traffic problems has been validated by the execution of several tests in public schools, and the results demonstrate that this simulation application encourages learning in road safety education for children between 9 and 12 years old, using a distributed environment with a computational cluster in the cloud.
+C1 [Proano, Carlos] Univ Fuerzas Armadas ESPE, Comp Sci Dept, Latacunga, Ecuador.
+   Univ Fuerzas Armadas ESPE, Elect Elect & Telecommun Dept, Latacunga, Ecuador.
+C3 Escuela Politecnica Superior del Ejercito; Escuela Politecnica Superior
+   del Ejercito
+RP Proano, C (autor correspondente), Univ Fuerzas Armadas ESPE, Comp Sci Dept, Latacunga, Ecuador.
+EM caproano5@espe.edu.ec; cjvillacis@espe.edu.ec; vgproanio@espe.edu.ec;
+   wmfuertes@espe.edu.ec; mgalmache@espe.edu.ec; mezambrano@espe.edu.ec;
+   jfgalarraga@espe.edu.ec
+OI Fuertes, Walter/0000-0001-9427-5766
+FU Universidad de las Fuerzas Armadas ESPE as part of the Department of
+   Computer Sciences; Universidad de las Fuerzas Armadas ESPE as part of
+   the Department of Electrical, Electronics, and Telecommunications
+FX The funding of this scientific research has been provided by Universidad
+   de las Fuerzas Armadas ESPE, as part of the research budget of both
+   Departments, Computer Sciences and Electrical, Electronics, and
+   Telecommunications.
+CR [Anonymous], 2018, TELEGRAFO
+   Backlund P, 2010, SIMULAT GAMING, V41, P145, DOI 10.1177/1046878107311455
+   Beck K., 2004, XP SER
+   Calheiros R., 2010, J SOFTWARE PRACTICE
+   Connolly T. M., 2013, PSYCHOL PEDAGOGY ASS
+   Direccion General de Trafico (DGT), 2015, NIPO12816001X DGT
+   Drake P., 2006, J COMPUT SMALL COLL, V22, P39
+   ESCOBAR JEF, 2017, U SOC, V9, P130
+   Escobar L., 2017, IEEE INT C MECH AUT
+   Filtness A., 2013, SIMULATORS SKILL ACQ
+   Garcia J., ANUARIO ESTADISTICA
+   Goncalves J, 2012, IEEE INT C INTELL TR, P1809, DOI 10.1109/ITSC.2012.6338828
+   Gonzalez J. Monclus, 2015, PROPUESTAS ACCION ES
+   Grove Thomsen P., 2005, LECT NOTES COMPUTER, V879
+   Halim Z, 2016, ARTIF INTELL REV, V46, P351, DOI 10.1007/s10462-016-9467-9
+   Hall'e S., 2003, 4 WORKSH AG BAS SIM
+   Hocking J., 2018, UNITY ACTION 2 EDITI
+   Ismaeel, 2016, 2016 3 MEC INT C BIG, P1
+   Kato S., 2000, P IEEE INT VEH S 200
+   Kirchen D.J., 2011, MAKING TAKING VIRTUA
+   Likitweerawong Kookiet, 2018, 2018 International Conference on Digital Arts, Media and Technology (ICDAMT), P158, DOI 10.1109/ICDAMT.2018.8376515
+   Lukito Andru Deva, 2017, J INFORM SYSTEMS SIS, V4
+   McManus B, 2015, TRAFFIC INJ PREV, V16, P818, DOI 10.1080/15389588.2015.1027339
+   Ministerio de Educacion, 2016, CURR EGB BGU CIENC S
+   Oyler DW, 2016, P AMER CONTR CONF, P1705, DOI 10.1109/ACC.2016.7525162
+   Paez S., 2012, PROFESSIONAL STORYBO
+   Pfeffer K., 2007, USING DRIVING SIMULA
+   Pressman R. S., 2009, SOFTWARE ENG PRACTIT
+   Rodrigues MAF, 2015, P 30 ANN ACM S APPL
+   Russell S, 2009, ARTIF INTELL, V3rd
+   Schell J., 2014, ART GAME DESIGN BOOK
+   Uskov AV, 2014, 2014 8TH INTERNATIONAL CONGRESS ON ADVANCED ELECTROMAGNETIC MATERIALS IN MICROWAVES AND OPTICS (METAMATERIALS)
+   Vera Lucia, 2017, INT C ADV COMP ENT
+   Vidakis N., 2015, LECT NOTES COMPUTER, V9177
+   Villacis C, 2016, PROCEEDINGS OF THE 18TH INTERNATIONAL CONFERENCE ON ENTERPRISE INFORMATION SYSTEMS, VOL 1 (ICEIS), P425, DOI 10.5220/0005772904250432
+   Vlakveld W., 2006, WILL SIMULATOR TRAIN
+   Walnum C., 2001, SAMS TEACH YOURSELF
+   World Health Organization, 2018, TOP 10 CAUS DEATH
+NR 38
+TC 1
+Z9 1
+U1 0
+U2 4
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN 1550-6525
+BN 978-1-7281-2923-5
+J9 IEEE ACM DIS SIM
+PY 2019
+BP 118
+EP 127
+PG 10
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science
+GA BO9UX
+UT WOS:000532498300018
+DA 2022-12-08
+ER
+
+PT C
+AU Villacis, C
+   Fuertes, W
+   Santillan, M
+   Aules, H
+   Tacuri, A
+   Zambrano, M
+   Salguero, E
+AF Villacis, Cesar
+   Fuertes, Walter
+   Santillan, Monica
+   Aules, Hernan
+   Tacuri, Ana
+   Zambrano, Margarita
+   Salguero, Edgar
+BE Hammoudi, S
+   Maciaszek, L
+   Missikoff, MM
+   Camp, O
+   Cordeiro, J
+TI On the Development of Strategic Games based on a Semiotic Analysis: A
+   Case Study of an Optimized Tic-Tac-Toe
+SO PROCEEDINGS OF THE 18TH INTERNATIONAL CONFERENCE ON ENTERPRISE
+   INFORMATION SYSTEMS, VOL 1 (ICEIS)
+LA English
+DT Proceedings Paper
+CT 18th International Conference on Enterprise Information Systems (ICEIS)
+CY APR 25-28, 2016
+CL Rome, ITALY
+DE Semiotics; Tic-Tac-Toe; Videogames; Artificial Intelligence; Semiotic
+   Models for Videogames
+AB A picture can express something instead of having a thousand words that cannot do it. This phrase, which symbolically connotes a whole scheme of a signs system, is known as Semiotics. This paper presents the process of an educational video game development based on semiotic analysis. We used Extreme Programing Agile Methodology combined with a proposal of the modified Elemental Tetrad Game Design Model to develop a video game known as "Tic-Tac-Toe". The mathematical model was implemented with Artificial Intelligence algorithms and a graphical user interface including Semiotics; this was optimized for producing an enjoyable and interactive environment. With the purpose of stimulating cognitive development of children, this research combines theories about stimulating cognitive development of children; game design model, Semiotic Analysis harnesses the Model of Aleferenko, and uses algorithms based on heuristics and numerical methods in client-server architecture. The concept was tested with a representative sample of seven to eleven years old children. The results demonstrated that educational video games with Semiotics stimulate the cognitive development of children.
+C1 [Villacis, Cesar; Fuertes, Walter; Santillan, Monica; Aules, Hernan; Tacuri, Ana; Zambrano, Margarita; Salguero, Edgar] Univ Fuerzas Armadas ESPE, Comp Siences Dept, Sangolqui, Ecuador.
+C3 Escuela Politecnica Superior del Ejercito
+RP Villacis, C (autor correspondente), Univ Fuerzas Armadas ESPE, Comp Siences Dept, Sangolqui, Ecuador.
+OI Fuertes, Walter/0000-0001-9427-5766
+CR Baceviciute S., 2014, ICON2014 1 INT C NUM
+   Beck K., 2000, EXTREME PROGRAMMING
+   Brown A. L., 1999, ZONE PROXIMAL DEV, V3, P225
+   Drake P., 2006, J COMPUT SMALL COLL, V22, P39
+   Feuerstein R., 1991, MEDIATED LEARNING EX
+   Gee James Paul, 2008, LITERACIES GLOBAL LO, V2, P137, DOI DOI 10.1075/AALS.2.10GEE
+   Gibson J., 2014, INTRO GAME DESIGN PR
+   Halliday M. A. K., 1978, LANGUAGE SOCIAL SEMI
+   Holdcroft D., 1991, SAUSSURE SIGNS SYSTE
+   Huber W. H., 2013, FDN VIDEOGAME AUTHOR
+   Villacis CJ, 2014, ATOZ, V3, P95, DOI 10.5380/atoz.v3i2.41342
+   Kendall N., 2015, WHAT IS 21 CENTURY B
+   Lipman M., 2002, FILOSOFIA AULA, V4
+   MYERS D, 1991, PLAY CULTURE, V4, P334
+   Ruiz J. G., 2014, P 5 MEX C HUM COMP I, P30
+   Schell J., 2014, ART GAME DESIGN BOOK
+   Schneider JG, 2003, PROC INT CONF SOFTW, P594, DOI 10.1109/ICSE.2003.1201242
+   Thorne SL, 2012, RECALL, V24, P279, DOI 10.1017/S0958344012000158
+   Tokarev G. B., 2014, INTRO SEMIOTICA, P62
+   Villacis Cesar, 2014, 2014 IEEE/ACM 18th International Symposium on Distributed Simulation and Real Time Applications (DS-RT). Proceedings, P129, DOI 10.1109/DS-RT.2014.24
+   VYGOTSKY LS, 1967, SOV PSYCHOL-USSR, V5, P6, DOI 10.2753/RPO1061-040505036
+   Walnum C., 2001, SAMS TEACH YOURSELF
+   Wisse P., 2002, SEMIOSIS SIGN EXCHAN
+NR 23
+TC 4
+Z9 4
+U1 0
+U2 7
+PU SCITEPRESS
+PI SETUBAL
+PA AV D MANUELL, 27A 2 ESQ, SETUBAL, 2910-595, PORTUGAL
+BN 978-989-758-187-8
+PY 2016
+BP 425
+EP 432
+DI 10.5220/0005772904250432
+PG 8
+WC Computer Science, Information Systems; Computer Science,
+   Interdisciplinary Applications; Computer Science, Software Engineering
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science
+GA BG9FZ
+UT WOS:000393155500043
+DA 2022-12-08
+ER
+
+PT J
+AU Biesialska, K
+   Franch, X
+   Muntes-Mulero, V
+AF Biesialska, Katarzyna
+   Franch, Xavier
+   Muntes-Mulero, Victor
+TI Big Data analytics in Agile software development: A systematic mapping
+   study
+SO INFORMATION AND SOFTWARE TECHNOLOGY
+LA English
+DT Article
+DE Agile software development; Software analytics; Data analytics; Machine
+   learning; Artificial intelligence; Literature review
+ID DATA SCIENCE; DRIVEN; PRIORITIZATION; LESSONS; DELAY
+AB Context: Over the last decade, Agile methods have changed the software development process in an unparalleled way and with the increasing popularity of Big Data, optimizing development cycles through data analytics is becoming a commodity. Objective: Although a myriad of research exists on software analytics as well as on Agile software development (ASD) practice on itself, there exists no systematic overview of the research done on ASD from a data analytics perspective. Therefore, the objective of this work is to make progress by linking ASD with Big Data analytics (BDA). Method: As the primary method to find relevant literature on the topic, we performed manual search and snowballing on papers published between 2011 and 2019. Results: In total, 88 primary studies were selected and analyzed. Our results show that BDA is employed throughout the whole ASD lifecycle. The results reveal that data-driven software development is focused on the following areas: code repository analytics, defects/bug fixing, testing, project management analytics, and application usage analytics. Conclusions: As BDA and ASD are fast-developing areas, improving the productivity of software development teams is one of the most important objectives BDA is facing in the industry. This study provides scholars with information about the state of software analytics research and the current trends as well as applications in the business environment. Whereas, thanks to this literature review, practitioners should be able to understand better how to obtain actionable insights from their software artifacts and on which aspects of data analytics to focus when investing in such initiatives.
+C1 [Biesialska, Katarzyna; Franch, Xavier] Univ Politecn Cataluna, Barcelona, Spain.
+   [Muntes-Mulero, Victor] Beawre Digital SL, Barcelona, Spain.
+C3 Universitat Politecnica de Catalunya
+RP Biesialska, K (autor correspondente), Univ Politecn Cataluna, Barcelona, Spain.
+EM katarzyna.biesialska@upc.edu
+RI Harrison, Dylan/AFP-8142-2022
+OI Muntes-Mulero, Victor/0000-0002-6693-2295; Biesialska,
+   Katarzyna/0000-0002-2865-7990
+FU Catalan Agencia de Gestion de Ayudas Universitarias y de Investigacion
+   (AGAUR) through the FI Ph.D. grant; Spanish Ministerio de Economia,
+   Industria y Competitividad through the GENESIS project [TIN2016-79269-R]
+FX This work is supported in part by the Catalan Agencia de Gestion de
+   Ayudas Universitarias y de Investigacion (AGAUR) through the FI Ph.D.
+   grant. The research is also partially supported by the Spanish
+   Ministerio de Economia, Industria y Competitividad through the GENESIS
+   project (grant TIN2016-79269-R).
+CR Abdellatif TM, 2015, 2015 IEEE/ACM 1ST INTERNATIONAL WORKSHOP ON BIG DATA SOFTWARE ENGINEERING, P30, DOI 10.1109/BIGDSE.2015.14
+   Abrahamsson P, 2011, INT SYMP EMP SOFTWAR, P400, DOI 10.1109/ESEM.2011.58
+   Alam A., 2016, P 10 ACM IEEE INT S, P27
+   Alshakhouri M, 2018, INFORM SOFTWARE TECH, V98, P131, DOI 10.1016/j.infsof.2018.01.008
+   Ambler Scott W., 2008, BALANCING AGILITY FO, P1
+   Ambler SW, 2012, DISCIPLINED AGILE DE
+   Ameller D, 2015, INFORM SOFTWARE TECH, V62, P42, DOI 10.1016/j.infsof.2015.02.006
+   Amershi S, 2019, 2019 IEEE/ACM 41ST INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING: SOFTWARE ENGINEERING IN PRACTICE (ICSE-SEIP 2019), P291, DOI 10.1109/ICSE-SEIP.2019.00042
+   [Anonymous], 2015, LESS FRAMEWORK
+   [Anonymous], 2003, HYPE CYCLE EMERGING
+   [Anonymous], 2015, SCALED AGILE FRAMEWO
+   [Anonymous], 2016, VISIONS, V40
+   Arpteg A, 2018, EUROMICRO CONF PROC, P50, DOI 10.1109/SEAA.2018.00018
+   Asthana S., 2019, P 2019 27 ACM JOINT
+   Augustine V, 2018, IEEE SOFTWARE, V35, P72, DOI 10.1109/MS.2017.4541044
+   Avelino G, 2018, SBES'18: PROCEEDINGS OF THE XXXII BRAZILIAN SYMPOSIUM ON SOFTWARE ENGINEERING, P11, DOI 10.1109/MS.2018.185140155
+   Bagriyanik S., 2016, GLOBAL J INFORM TECH, V6, P107, DOI DOI 10.18844/gjit.v6i1.397
+   Balogh G, 2015, PROC IEEE INT CONF S, P391, DOI 10.1109/ICSM.2015.7332490
+   Batarseh FA, 2018, SOFTWARE QUAL J, V26, P49, DOI 10.1007/s11219-015-9285-3
+   Becker K, 2015, INFORM SOFTWARE TECH, V57, P494, DOI 10.1016/j.infsof.2014.06.003
+   Blackett G., 2018, ANAL NETWORK R ANAL
+   Blincoe K, 2019, EMPIR SOFTW ENG, V24, P1610, DOI 10.1007/s10664-018-9656-z
+   Boehm Richard Turner, 2003, BALANCING AGILITY DI
+   Boerman MP, 2015, INT WORKS EMERG TREN, P54, DOI 10.1109/WETSoM.2015.15
+   Bourque P., 2014, SWEBOK GUIDE SOFTWAR
+   Braione P, 2014, SOFTWARE QUAL J, V22, P311, DOI 10.1007/s11219-013-9207-1
+   Brereton P, 2007, J SYST SOFTWARE, V80, P571, DOI 10.1016/j.jss.2006.07.009
+   Budgen David, 2008, USING MAPPING STUDIE, P20
+   Busjaeger B, 2016, FSE'16: PROCEEDINGS OF THE 2016 24TH ACM SIGSOFT INTERNATIONAL SYMPOSIUM ON FOUNDATIONS OF SOFTWARE ENGINEERING, P975, DOI 10.1145/2950290.2983954
+   Calefato F, 2016, EMPIR SOFTW ENG, V21, P1002, DOI 10.1007/s10664-015-9372-x
+   Calikli G, 2018, PROCEEDINGS OF THE 2018 INTERNATIONAL CONFERENCE ON SOFTWARE AND SYSTEM PROCESS (ICSSP 2018), P51, DOI 10.1145/3202710.3203156
+   Campanelli AS, 2015, J SYST SOFTWARE, V110, P85, DOI 10.1016/j.jss.2015.08.035
+   Cao LB, 2017, ACM COMPUT SURV, V50, DOI 10.1145/3076253
+   Carlson Ryan, 2011, 2011 IEEE 27th International Conference on Software Maintenance, P382, DOI 10.1109/ICSM.2011.6080805
+   Chen N, 2014, 36TH INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING (ICSE 2014), P767, DOI 10.1145/2568225.2568263
+   Chen WJ, 2014, IEEE ANTENNAS PROP, P689, DOI 10.1109/APS.2014.6904675
+   Choetkiertikul M, 2018, IEEE T SOFTWARE ENG, V44, P551, DOI 10.1109/TSE.2017.2693989
+   Choetkiertikul M, 2017, EMPIR SOFTW ENG, V22, P1223, DOI 10.1007/s10664-016-9496-7
+   Conoscenti M, 2019, J SYST SOFTWARE, V156, P126, DOI 10.1016/j.jss.2019.06.075
+   Czekster RM, 2016, ACM T SOFTW ENG METH, V25, DOI 10.1145/2955093
+   Czerwonka J, 2013, IEEE SOFTWARE, V30, P64, DOI 10.1109/MS.2013.68
+   da Costa DA, 2018, EMPIR SOFTW ENG, V23, P835, DOI 10.1007/s10664-017-9548-7
+   Dalpiaz F, 2019, INFORM SOFTWARE TECH, V110, P3, DOI 10.1016/j.infsof.2018.12.007
+   Dam Hoa Khanh, 2018, ARXIV181210578
+   Dehghan A, 2017, IEEE WORK CONF MIN S, P124, DOI 10.1109/MSR.2017.53
+   Destefanis G, 2016, INT WORKS EMERG TREN, P22, DOI 10.1109/WETSoM.2016.012
+   Didar Al Alam S. M., 2016, 2016 IEEE/ACM 5th International Workshop on Realizing Artificial Intelligence Synergies in Software Engineering (RAISE). Proceedings, P15, DOI 10.1109/RAISE.2016.011
+   Dingsoyr T, 2018, EMPIR SOFTW ENG, V23, P490, DOI 10.1007/s10664-017-9524-2
+   Dingsoyr T, 2012, J SYST SOFTWARE, V85, P1213, DOI 10.1016/j.jss.2012.02.033
+   Dyba T, 2008, INFORM SOFTWARE TECH, V50, P833, DOI 10.1016/j.infsof.2008.01.006
+   Ebert C, 2019, IEEE SOFTWARE, V36, P66, DOI 10.1109/MS.2019.2933681
+   Elbaum S, 2014, 22ND ACM SIGSOFT INTERNATIONAL SYMPOSIUM ON THE FOUNDATIONS OF SOFTWARE ENGINEERING (FSE 2014), P235, DOI 10.1145/2635868.2635910
+   Fabijan A, 2017, PROC INT CONF SOFTW, P770, DOI 10.1109/ICSE.2017.76
+   Fitzgerald B, 2014, 36TH INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING (ICSE COMPANION 2014), P93, DOI 10.1145/2591062.2591190
+   Freire A, 2018, INFORM SOFTWARE TECH, V100, P119, DOI 10.1016/j.infsof.2018.04.004
+   Fucci D, 2017, IEEE T SOFTWARE ENG, V43, P597, DOI 10.1109/TSE.2016.2616877
+   Garcia J, 2017, ESEC/FSE 2017: PROCEEDINGS OF THE 2017 11TH JOINT MEETING ON FOUNDATIONS OF SOFTWARE ENGINEERING, P908, DOI 10.1145/3106237.3117772
+   Golfarelli M, 2013, J SYST SOFTWARE, V86, P2357, DOI 10.1016/j.jss.2013.04.028
+   Guzman E, 2015, IEEE INT CONF AUTOM, P771, DOI 10.1109/ASE.2015.88
+   Habayeb M, 2018, IEEE T SOFTWARE ENG, V44, P1224, DOI 10.1109/TSE.2017.2757480
+   Hauge O, 2010, INFORM SOFTWARE TECH, V52, P1133, DOI 10.1016/j.infsof.2010.05.008
+   Heikkila VT, 2015, INFORM SOFTWARE TECH, V57, P116, DOI 10.1016/j.infsof.2014.09.005
+   Hoda R, 2017, INFORM SOFTWARE TECH, V85, P60, DOI 10.1016/j.infsof.2017.01.007
+   Hu G., 2018, APPFLOW USING MACHIN
+   Hu H, 2014, IEEE ACCESS, V2, P652, DOI 10.1109/ACCESS.2014.2332453
+   Huijgens H, 2017, ESEC/FSE 2017: PROCEEDINGS OF THE 2017 11TH JOINT MEETING ON FOUNDATIONS OF SOFTWARE ENGINEERING, P866, DOI 10.1145/3106237.3117779
+   Jalali S, 2012, INT SYMP EMP SOFTWAR, P29, DOI 10.1145/2372251.2372257
+   Janssen M, 2017, J BUS RES, V70, P338, DOI 10.1016/j.jbusres.2016.08.007
+   Johanssen J.O., 2018, PROFES
+   Karim MR, 2016, IEEE-ACM INT WKSP CO, P7, DOI [10.1109/CESI.2016.012, 10.1145/2896839.2896845]
+   Kitchenham B., 2007, EBSE20071 SCH COMP S
+   Kitchenham B, 2010, J SYST SOFTWARE, V83, P37, DOI 10.1016/j.jss.2009.06.041
+   Kitchenham BA, 2011, INFORM SOFTWARE TECH, V53, P638, DOI 10.1016/j.infsof.2010.12.011
+   Kortum F, 2019, 2019 IEEE/ACM INTERNATIONAL CONFERENCE ON SOFTWARE AND SYSTEM PROCESSES (ICSSP 2019), P34, DOI 10.1109/ICSSP.2019.00015
+   Krippendorff K., 1969, ANAL COMMUNICATION C
+   Kupiainen E, 2015, INFORM SOFTWARE TECH, V62, P143, DOI 10.1016/j.infsof.2015.02.005
+   Laanti M, 2011, INFORM SOFTWARE TECH, V53, P276, DOI 10.1016/j.infsof.2010.11.010
+   Larson D, 2016, INT J INFORM MANAGE, V36, P700, DOI 10.1016/j.ijinfomgt.2016.04.013
+   Liechti O, 2017, 2017 IEEE/ACM 12TH INTERNATIONAL WORKSHOP ON AUTOMATION OF SOFTWARE TESTING (AST), P9, DOI 10.1109/AST.2017.3
+   Lin J, 2013, IEEE INT CONF AUTOM, P758, DOI 10.1109/ASE.2013.6693151
+   Lindgren E, 2016, INFORM SOFTWARE TECH, V77, P80, DOI 10.1016/j.infsof.2016.04.008
+   Lu M., 2017, PROC RE, P344
+   Lunesu MI, 2018, INFORM SOFTWARE TECH, V103, P226, DOI 10.1016/j.infsof.2018.07.004
+   Maalej W, 2016, IEEE SOFTWARE, V33, P48, DOI 10.1109/MS.2015.153
+   Maddila C.S., 2019, P 2019 27 ACM JOINT
+   Malgonde O, 2019, EMPIR SOFTW ENG, V24, P1017, DOI 10.1007/s10664-018-9647-0
+   Manzano M., 2018, PROMISE
+   Marijan D, 2013, PROC IEEE INT CONF S, P540, DOI 10.1109/ICSM.2013.91
+   Mattsson M, 2008, P 12 INT C EVALUATIO, P68, DOI [10.14236/ewic/ease2008.8, DOI 10.14236/EWIC/EASE2008.8]
+   Meidan A, 2018, ACM COMPUT SURV, V51, DOI 10.1145/3186888
+   Menzies T, 2018, IEEE SOFTWARE, V35, P64, DOI 10.1109/MS.2018.290111035
+   Menzies T, 2013, IEEE SOFTWARE, V30, P31, DOI 10.1109/MS.2013.86
+   Menzies T, 2012, PROC INT CONF SOFTW, P1032, DOI 10.1109/ICSE.2012.6227117
+   Mottos DI, 2019, INFORM SOFTWARE TECH, V113, P68, DOI 10.1016/j.infsof.2019.05.004
+   Olsson HH, 2014, EUROMICRO CONF PROC, P9, DOI 10.1109/SEAA.2014.75
+   Paasivaara Maria, 2018, EMPIR SOFTW ENG
+   Pareto L, 2012, J SYST SOFTWARE, V85, P1971, DOI 10.1016/j.jss.2012.04.054
+   Paz F., 2014, ESEM
+   Petersen K, 2015, INFORM SOFTWARE TECH, V64, P1, DOI 10.1016/j.infsof.2015.03.007
+   Petersen K, 2010, EMPIR SOFTW ENG, V15, P654, DOI 10.1007/s10664-010-9136-6
+   Philip AA, 2019, PROC INT CONF SOFTW, P408, DOI 10.1109/ICSE.2019.00054
+   Pietrantuono R, 2019, INT WORKSH AUTOMAT, P21, DOI 10.1109/AST.2019.00009
+   Pospieszny P, 2018, J SYST SOFTWARE, V137, P184, DOI 10.1016/j.jss.2017.11.066
+   Provost F, 2013, BIG DATA, V1, P51, DOI 10.1089/big.2013.1508
+   Qiu D, 2015, ACM COMPUT SURV, V47, DOI 10.1145/2631685
+   Ramaki AA, 2018, ACM COMPUT SURV, V51, DOI 10.1145/3184898
+   Robbes R, 2013, IEEE SOFTWARE, V30, P46, DOI 10.1109/MS.2013.92
+   Rocha T, 2019, J SYST SOFTWARE, V154, P176, DOI 10.1016/j.jss.2019.04.060
+   Rodeghero P, 2017, PROC INT CONF SOFTW, P49, DOI 10.1109/ICSE.2017.13
+   Rodrigues DS, 2018, ACM COMPUT SURV, V51, DOI 10.1145/3182659
+   Sadowski C, 2015, 2015 IEEE/ACM 37TH IEEE INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING, VOL 1, P598, DOI 10.1109/ICSE.2015.76
+   SAHAF Z, 2014, P INT C SOFTW SYST P, P149, DOI DOI 10.1145/2600821.2600832
+   Scheerer A, 2015, P ANN HICSS, P5124, DOI 10.1109/HICSS.2015.606
+   Schermann G, 2018, PROC IEEE INT CONF S, P485, DOI 10.1109/ICSME.2018.00059
+   Scott E., 2018, ICSSP
+   Sharma VS, 2019, 34TH IEEE/ACM INTERNATIONAL CONFERENCE ON AUTOMATED SOFTWARE ENGINEERING (ASE 2019), P1214, DOI 10.1109/ASE.2019.00142
+   Shaw M, 2003, PROC INT CONF SOFTW, P726, DOI 10.1109/ICSE.2003.1201262
+   Snyder B, 2018, IEEE SOFTWARE, V35, P78, DOI 10.1109/MS.2017.4541032
+   Souza R, 2015, IEEE SOFTWARE, V32, P88, DOI 10.1109/MS.2015.30
+   Staron Miroslaw, 2011, Product-Focused Software Process Improvement. Proceedings 12th International Conference, PROFES 2011, P3, DOI 10.1007/978-3-642-21843-9_3
+   Sulun E., 2019, P 15 INT C PRED MOD
+   Svensson RB, 2019, LECT NOTES BUS INF P, V355, P69, DOI 10.1007/978-3-030-19034-7_5
+   Szoke A, 2011, INFORM SOFTWARE TECH, V53, P574, DOI 10.1016/j.infsof.2011.01.008
+   Torrecilla-Salinas CJ, 2015, INFORM SOFTWARE TECH, V61, P124, DOI 10.1016/j.infsof.2015.01.006
+   Tuzun E, 2019, 2019 IEEE/ACM INTERNATIONAL CONFERENCE ON SOFTWARE AND SYSTEM PROCESSES (ICSSP 2019), P115, DOI 10.1109/ICSSP.2019.00023
+   Vargas EL, 2018, 2018 IEEE/ACM 40TH INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING: NEW IDEAS AND EMERGING TECHNOLOGIES RESULTS (ICSE-NIER), P21, DOI 10.1145/3183399.3183417
+   Vassallo C, 2019, PROC INT CONF SOFTW, P105, DOI 10.1109/ICSE.2019.00028
+   VersionOne, 2018, 12 ANN STAT AG REP
+   Vollmer A.M., 2019, INT S EMP SOFTW ENG, P1
+   Winter J., 2019, P 2019 27 ACM JOINT
+   Wnuk K, 2016, IEEE T SOFTWARE ENG, V42, P47, DOI 10.1109/TSE.2015.2445347
+   Wohlin C., 2014, 18 INT C EVALUATION, V38, P1, DOI 10.1145/2601248.2601268
+   Wohlin C, 2016, PROCEEDINGS OF THE 20TH INTERNATIONAL CONFERENCE ON EVALUATION AND ASSESSMENT IN SOFTWARE ENGINEERING 2016 (EASE '16), DOI 10.1145/2915970.2916006
+   Xiao L, 2018, IEEE SOFTWARE, V35, P64, DOI 10.1109/MS.2017.4541052
+   Yu Z., 2019, P 2019 27 ACM JOINT
+   Zhang DM, 2013, IEEE SOFTWARE, V30, P30, DOI 10.1109/MS.2013.94
+   Zhang JZ, 2019, INFORM SOFTWARE TECH, V108, P30, DOI 10.1016/j.infsof.2018.12.002
+NR 138
+TC 10
+Z9 10
+U1 1
+U2 32
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0950-5849
+EI 1873-6025
+J9 INFORM SOFTWARE TECH
+JI Inf. Softw. Technol.
+PD APR
+PY 2021
+VL 132
+AR 106448
+DI 10.1016/j.infsof.2020.106448
+EA JAN 2021
+PG 25
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA QB6LA
+UT WOS:000614249900007
+OA Green Submitted
+DA 2022-12-08
+ER
+
+PT C
+AU Akour, MA
+   Das, A
+AF Akour, Mohammad Ali
+   Das, Anupam
+BE Mitsuhara, H
+   Goda, Y
+   Ohashi, Y
+   Rodrigo, MT
+   Shen, J
+   Venkatarayalu, N
+   Wong, G
+   Yamada, M
+   Lei, CU
+TI Developing a Virtual Smart Total Learning Environment for Future
+   Teaching-Learning System
+SO PROCEEDINGS OF 2020 IEEE INTERNATIONAL CONFERENCE ON TEACHING,
+   ASSESSMENT, AND LEARNING FOR ENGINEERING (IEEE TALE 2020)
+SE Proceedings of IEEE International Conference on Teaching Assessment and
+   Learning for Engineering
+LA English
+DT Proceedings Paper
+CT IEEE International Conference on Teaching, Assessment, and Learning for
+   Engineering (IEEE TALE)
+CY DEC 08-11, 2020
+CL IEEE Shikoku Sect, ELECTR NETWORK
+SP IEEE, IEEE Educ Soc, Japanese Soc Informat & Syst Educ, Japan Soc Educ Technol, Telecommunicat Advancement Fdn
+HO IEEE Shikoku Sect
+DE smart; virtual; learning-environment; machine learning; big data;
+   adaptive learning
+AB The world of education system after this COVID-19 pandemic will have to change its dimension to map the needs of learners. The proposed framework is focused on transforming the learning experience into two possible ways like online and on-campus learning through groundbreaking & agile methodologies. The new interfaces for learners will be included like Gamification, animated tutorial etc. The framework designed here is the outcome of the e-learning experiences of the authors and it tries to add all relevant technologies with cutting-edge research to provide inspirational and transformative knowledge to learners of all ages, social status, communities who form worldwide communities of special-learners. It will rise to the occasion to use its open source technology along with the emerged technologies like IoT, 5G etc, to transcend physical and social borders. This framework is a total learning environment as it will incorporate all possible latest technologies like big data and machine learning. The e-learning system possesses features like personalized e-learning, anomaly detection, student performance monitoring, dynamic content preparations, students' satisfaction monitoring etc. The new framework will include big data, cloud applications, machine learning and artificial intelligence to make the system faster, efficient and smart. The new features will make the e-learning system based on Virtual Smart Total Learning Environment (VSTLE) more technologically sound and efficient in processing, predicting, evaluating and making storage backup. This framework is designed in such a way that the minimum human intervention will be needed for its functioning. As a result, the final output will be more accurate as compared to other e-learning systems available.
+C1 [Akour, Mohammad Ali] ASharqiyah Univ, Ibra, Oman.
+   [Das, Anupam] Cotton Univ, Gauhati, Assam, India.
+RP Akour, MA (autor correspondente), ASharqiyah Univ, Ibra, Oman.
+CR Alshammari Mohammad T., 2020, INT J ADV APPL SCI
+   Azzi Ibtissam, PERSONALIZED LEARNIN
+   Carneiro Rubens E., 2019, 19 INT C ADV LEARN T
+   Costa Laecio Araujo, 2019, 19 INT C ADV LEARN T
+   Costa Newarney, 2019, 9 INT C ADV LEARN TE
+   De Medio C, 2020, COMPUT HUM BEHAV, V104, DOI 10.1016/j.chb.2019.106168
+   ENNOUAMANI Soukaina, 2018, INT J COMPUT SCI NET
+   How, 2019, EDUC SCI
+   Kanth Rajeev, 2018, FUTURE ED TECHNOLOGY
+   Li Hsiao-Hui, ARTIFICIAL INTELLIGE
+   Lingam G, 2018, COMPUT ELECTR ENG, V66, P174, DOI 10.1016/j.compeleceng.2017.10.017
+   Prasetya Didik Dwi, DIGITAL CONTENT MODE
+NR 12
+TC 2
+Z9 2
+U1 1
+U2 7
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN 2374-0191
+BN 978-1-7281-6942-2
+J9 PR IEEE INT CONF TEA
+PY 2020
+BP 576
+EP 579
+DI 10.1109/TALE48869.2020.9368373
+PG 4
+WC Education, Scientific Disciplines; Engineering, Electrical & Electronic
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Education & Educational Research; Engineering
+GA BR6NG
+UT WOS:000662184600085
+DA 2022-12-08
+ER
+
+PT C
+AU Kolasinska-Morawska, K
+   Sulkowski, L
+   Morawski, P
+AF Kolasinska-Morawska, Katarzyna
+   Sulkowski, Lukasz
+   Morawski, Pawel
+BE Jurcic, A
+   Oreski, D
+   Mikic, M
+TI AGILITY IN CUSTOMER SERVICE USING CLOUD BASED CRM SYSTEMS AND ENTERPRISE
+   COLLABORATION TOOLS
+SO ECONOMIC AND SOCIAL DEVELOPMENT
+SE International Scientific Conference on Economic and Social Development
+LA English
+DT Proceedings Paper
+CT 21st International Scientific Conference on Economic and Social
+   Development
+CY MAY 18-19, 2017
+CL Belgrade, SERBIA
+SP Varazdin Dev & Entrepreneurship Agcy, John Naisbitt Univ, Univ N, Univ Warsaw, Fac Management, esd
+DE Agile; Chatter; Cloud; CRM; Digitalization; Salesforce; Social
+AB Contemporary worlds of both the real and the virtual ones merge. Here comes the fourth revolution which equals to digitization. The digitization of customer service means for many companies the necessity of integration with the current exponential changes. Digitization impose changes in business models. Contemporary technologies like Internet of things, artificial intelligence, cloud computing and big data open new opportunities for enterprises but are very challenging at the same time. But especially for companies operating in a virtual environment customer service based on modern technologies became obligatory. These new technologies allowing full customization of the offer and highest level of customer service with acceptable costs and inputs. Using of these new technologies determine the position of the companies in the market. Instant share of knowledge, files, and customer related data across enterprise become crucial for gaining competitive advantage these days in turbulent and unpredictable business environment. Connect all employees with experts from whole organization regardless of their role or location is the best and most effective way to react quickly and proactively for customer's needs and expectations. Collaborate on sales opportunities, customer service cases and requests, marketing campaigns and innovative projects with embedded applications and custom workflows within one common integrated system open new markets. Agile (agility) become very popular term worldwide as proper usage of agile methodologies in business (especially in customer service) may lead to market success. This paper is devoted to the role of new technologies in the processes of customer service and enterprise social networks and collaboration. But also key issues in the introduction and use of these technologies are described. Authors presents how properly implemented instant communication tools can accelerate productivity and overall performance of the business including but not limited to sales and customer service processes. The article is based on case studies, research and experience authors have using one of the top CRM solution - Salesforce. In particular enterprise collaboration platform introduced by Salesforce called Chatter.
+C1 [Kolasinska-Morawska, Katarzyna; Sulkowski, Lukasz; Morawski, Pawel] Univ Social Sci, Warsaw, Poland.
+C3 University of Social Sciences
+RP Kolasinska-Morawska, K (autor correspondente), Univ Social Sci, Warsaw, Poland.
+EM kkolasinska@spoleczna.pl; lsulkowski@spoleczna.pl;
+   pmorawski@spoleczna.pl
+RI Sułkowski, Łukasz/N-4878-2019
+OI Sułkowski, Łukasz/0000-0002-1248-2743
+CR Adamczewski P., 2000, INTEGRATED IT SYSTEM
+   Al-Noorachi M., 2015, MARKETING MANAGEMENT
+   Appelo J., 2016, MANAGEMENT 3 0 MANAG
+   Baines P., 2011, MARKETING
+   Baraniecka A., 2004, ECR CUSTOMER ORIENTE
+   Chaffey D, 2009, INTERNET MARKETING S
+   Chrapko M., 2015, SCRUM AGILE PROJECT
+   Cichosz M., 2010, CUSTOMER LOYALTY LOG
+   Ciesielski M., 2010, SUPPLY CHAIN STRATEG
+   COYLE JJ, 1996, MANAGEMENT BUSINESS
+   Dlugosz J., 2009, NEW TECHNOLOGIES LOG
+   Eapen G., 2010, FLEXIBILITY FLEXIBIL
+   Gitomer J., 2011, SOCIAL BOOM
+   Kosieradzka A., 2000, PRODUCTIVITY METHODS
+   Kramarz M., 2014, LOGISTIC ELEMENTS CU
+   Krawczyk S., 2001, QUANTITATIVE METHODS
+   Kucharska B., 2010, CUSTOMER SERVICE RET
+   Ludkowski L., 2012, SOCIAL MEDIA POLISH
+   Mateos A., 2011, CLOUD COMPUTING BUSI
+   Moroz M., 2013, SHAPING FLEXIBILITY
+   Murphy P.R., 2011, MODERN LOGISTICS
+   Pawlowska B. J., 2010, MODERN CONCEPTS CUST
+   PHILLIPS J, 2008, MAKE US MORE INNOVAT
+   Pieriegut J., 2016, GAME BUSINESS FUTURE
+   Ramesh G., 2007, J MANUFACTURING TECH
+   Shih C., 2012, THE FACEBOOKA ERA
+   Slowinski B., 2008, INTRO LOGISTICS
+   Tomaszkiewicz M., 2016, WHAT IS 2 INTERNET
+   Volberda H.W., 1996, FLEXIBLE FORMS REMAI
+NR 29
+TC 2
+Z9 2
+U1 0
+U2 38
+PU VARAZDIN DEVELOPMENT & ENTREPRENEURSHIP AGENCY
+PI VARAZDIN
+PA MIHANOVICEVA 4, VARAZDIN, 00000, CROATIA
+SN 1849-7535
+J9 EC SOC DEVELOP
+PY 2017
+BP 72
+EP 81
+PG 10
+WC Economics; Regional & Urban Planning
+WE Conference Proceedings Citation Index- Social Science &amp; Humanities (CPCI-SSH)
+SC Business & Economics; Public Administration
+GA BJ2BZ
+UT WOS:000418819000008
+DA 2022-12-08
+ER
+
+PT C
+AU Solomon, A
+   Crawford, Z
+AF Solomon, Adrian
+   Crawford, Zachary
+GP IEEE
+TI Transitioning from Legacy Air Traffic Management to Airspace Management
+   through Secure, Cloud-Native Automation Solutions
+SO 2021 IEEE/AIAA 40TH DIGITAL AVIONICS SYSTEMS CONFERENCE (DASC)
+SE IEEE-AIAA Digital Avionics Systems Conference
+LA English
+DT Proceedings Paper
+CT IEEE/AIAA 40th Digital Avionics Systems Conference (DASC)
+CY OCT 03-07, 2021
+CL ELECTR NETWORK
+SP IEEE, AIAA
+DE Automation; ATM; Cloud-native; Microservices
+AB Advancements in Cloud-native services, Machine-Learning (ML), Artificial Intelligence (AI), and Rapid Application Development (RAD) using the Agile methodology has led countless industries to achieving desirable levels of automation while reducing cost and improving quality software deployments, timely / iterative delivery, and accountability. Coupling this framework with the principle of security as a shared responsibility further enhances the efficacy of an integrated Development, Security, and Operations (DevSecOps) Team within organizations to deliver secured digital solutions. Air Navigation Service Providers (ANSPs) around the world are currently exploring and embracing the digital evolution shifting from monolithic, legacy automation platforms to an application framework of microservices to allow for flexible operations as capabilities and airspace operations evolve. Specific to the US, the ATM automation system of today is comprised of both safety and non-safety critical systems, with mission-essential, efficiency-critical, and mission-support services that are predominately maintained and evolved through multiyear, one contractor-led programs. Although the system has proven resilient, it has not proven to be agile and flexible to allow for advances in capabilities on-board aircraft or in the data integration and sharing with other NAS automation systems. This creates significant overhead in development, sustainability, and operations of the current automation system, and leaves modernization efforts-in terms of new capabilities-in constant investment decision planning cycles, costing agencies not just money, but more time to innovate. To advance aviation into a new generation of interoperability leveraging collaborative frameworks and application specific capabilities, ANSPs must adapt to innovative methods to collect, process, and deliver critical and essential aeronautical, weather, and flight information to air traffic control operators and ultimately to airspace users. Doing so can not only lead to sustaining NAS automation systems while reducing the costs to develop and operate these systems, but it also provides an opportunity to present strategies on how to dramatically reduce the time and integration efforts needed to deploy new capabilities. Leveraging cloud-native technologies and services is a way to realize this automation evolution vision for ANSPs.
+   This paper examines the migration from today's systems to secure, cloud-native platforms to prove that Mission Services and Mission Applications can be rapidly available / deployable to operators who provide separation and flow management services, using a cyber-secured cloud-native environment. Aeronautical data typically used for tactical decision making is now seen as crucial to the decision-making process in Air Traffic Management (ATM). Integrating global and localized datasets into a digital aviation data platform enhances the capabilities of the solutions and opens the possibilities of leveraging big data analytics and microservices to compute trajectory predictions (TP), demand capacity balancing (DCB), arrival and departure sequencing, airspace delay, among others, in real-time to achieve operator-driven mission objectives. Technology has reached a state of maturity, especially in cloud and hybrid cloud solutions, to support safety of life operations, like ATM. This paper identifies approaches that are being considered for that migration to support the integration of new airspace entrants, the use of application services to provide a dynamic, evolutionary ATM platform, and addresses some of the safety and security strategies that must be considered for this evolution.
+C1 [Solomon, Adrian; Crawford, Zachary] Thales, Digital Aviat Solut, Arlington, VA 22202 USA.
+C3 Thales Group
+RP Solomon, A (autor correspondente), Thales, Digital Aviat Solut, Arlington, VA 22202 USA.
+EM Adrian.Solomon.e@thalesdigital.io; Zachary.Crawford.e@thalesdigital.io
+RI wang, toby/AFU-6392-2022
+CR [Anonymous], Platform One
+   [Anonymous], 2020, FAAS COMP AW PROACT
+   [Anonymous], 2018, ICAO 13 AIR NAV C
+   [Anonymous], 2021, J AIR TRAFFIC CONTRO, V63, P18
+   Bakshi K, 2017, AEROSP CONF PROC
+   Mitre Corporation, 2020, FAA AUT EV STRAT KEY
+   SWIM Program Office, 2019, SWIM US FOR
+NR 7
+TC 0
+Z9 0
+U1 4
+U2 4
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN 2155-7195
+BN 978-1-6654-3420-1
+J9 IEEEAAIA DIGIT AVION
+PY 2021
+DI 10.1109/DASC52595.2021.9594313
+PG 8
+WC Engineering, Aerospace; Computer Science, Interdisciplinary
+   Applications; Engineering, Electrical & Electronic
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Engineering; Computer Science
+GA BS5QC
+UT WOS:000739652600020
+DA 2022-12-08
+ER
+
+EF
